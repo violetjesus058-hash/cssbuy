@@ -1,0 +1,7 @@
+﻿{
+  "name": "Usfans Spreadsheet",
+  "domain": "Usfanslinki.com",
+  "github": "Usfanslinki",
+  "build": "npm run build",
+  "output": "dist"
+}
