@@ -1,7 +1,7 @@
 ﻿{
-  "name": "Usfans Spreadsheet",
-  "domain": "Usfanslinki.com",
-  "github": "Usfanslinki",
+  "name": "CSSBuy",
+  "domain": "repsootd.com",
+  "github": "violetjesus058-hash/cssbuy",
   "build": "npm run build",
   "output": "dist"
 }

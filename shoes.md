@@ -1,10 +1,10 @@
 ---
-title: 'USFans Shoes Spreadsheet | Sneaker Finds and Footwear Guides'
-description: 'Explore the USFans Shoes Spreadsheet for sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots. Compare focused USFans sneaker finds by use case.'
+title: 'CSSBuy Shoes | Sneaker Finds and Footwear Guides'
+description: 'Explore the CSSBuy Shoes for sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots. Compare focused cssbuy sneaker finds by use case.'
 category: Footwear
 tags:
-- USFans Shoes Spreadsheet
-- USFans Sneaker Finds
+- CSSBuy Shoes
+- cssbuy Sneaker Finds
 - Footwear Guides
 - Shoe Discovery
 updated: '2026-08-14T00:00:00Z'
@@ -15,38 +15,38 @@ import { siteConfig } from './.vitepress/theme/site-config.js'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const shoesCategory = siteConfig.categories.find(c => c.id === 'shoes')
-const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
+const CSSBuyLink = 'https://repsootd.com/'
 
 const productTypes = [
   {
     icon: '🏃',
     name: 'Running Shoes',
     desc: 'Engineered for performance with responsive cushioning, breathable mesh uppers, and durable rubber outsoles. Key technologies include advanced air units, foam midsoles, and gel systems for energy return and shock absorption.',
-    link: '/blog/usfans-running-shoes/'
+    link: '/blog/cssbuy-running-shoes/'
   },
   {
     icon: '🏀',
     name: 'Basketball Shoes',
     desc: 'Built for court performance with ankle support, herringbone traction patterns, and impact protection. Popular models feature responsive air units, foam midsoles, and reinforced toe boxes for durability during lateral movements.',
-    link: '/blog/usfans-basketball-shoes/'
+    link: '/blog/cssbuy-basketball-shoes/'
   },
   {
     icon: '👟',
     name: 'Casual Sneakers',
     desc: 'Lifestyle footwear blending comfort and style. Classic silhouettes remain timeless with clean lines and versatile colorways. Modern iterations incorporate premium materials like leather, suede, and knit uppers.',
-    link: '/blog/usfans-sneakers/'
+    link: '/blog/cssbuy-sneakers/'
   },
   {
     icon: '',
     name: 'Boots',
     desc: 'From rugged work boots to fashion-forward designs. Key features include Goodyear welt construction, waterproof membranes, durable rubber outsoles, and premium leather uppers for long-lasting wear.',
-    link: '/blog/usfans-football-boots/'
+    link: '/blog/cssbuy-football-boots/'
   },
   {
     icon: '🩴',
     name: 'Slides & Sandals',
     desc: 'Slip-on comfort for casual wear. EVA foam construction provides lightweight cushioning. Popular models feature contoured footbeds and adjustable straps for all-day comfort.',
-    link: '/blog/usfans-shoes/'
+    link: '/blog/cssbuy-shoes/'
   },
 ]
 
@@ -140,14 +140,14 @@ const sizingTips = [
 ]
 </script>
 
-# USFans Shoes Spreadsheet
+# CSSBuy Shoes
 
-The USFans Shoes Spreadsheet organizes sneaker and footwear discovery into practical paths, including running shoes, basketball shoes, casual sneakers, boots and slides. Choose a card below to open its dedicated article, then compare USFans sneaker finds using the fit, material and use-case guidance on that page.
+The CSSBuy Shoes organizes sneaker and footwear discovery into practical paths, including running shoes, basketball shoes, casual sneakers, boots and slides. Choose a card below to open its dedicated article, then compare cssbuy sneaker finds using the fit, material and use-case guidance on that page.
 
-<div class="spreadsheet-cta">
-  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
+<div class="CSSBuy-cta">
+  <a :href="CSSBuyLink" target="_blank" class="CSSBuy-btn">
     <span class="btn-icon"></span>
-    <span>View Shoes Spreadsheet</span>
+    <span>View Shoes CSSBuy</span>
     <span class="btn-arrow">→</span>
   </a>
   <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
@@ -248,14 +248,14 @@ Proper care extends the life of your shoes significantly:
 Build on your shoe knowledge with these connected resources:
 
 **Sneaker-Specific Guides:**
-- [Usfans Sneakers Database](/blog/usfans-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
-- [Usfans Running Shoes Guide](/blog/usfans-running-shoes/) — Performance running shoe comparisons and technology breakdowns
-- [Usfans Basketball Shoes Guide](/blog/usfans-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
+- [cssbuy Sneakers Database](/blog/cssbuy-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
+- [cssbuy Running Shoes Guide](/blog/cssbuy-running-shoes/) — Performance running shoe comparisons and technology breakdowns
+- [cssbuy Basketball Shoes Guide](/blog/cssbuy-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
 
 **Quality & Sizing Resources:**
-- [Usfans QC Photos Tutorial](/blog/usfans-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
-- [Usfans Sizing Guide](/blog/usfans-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
-- [Usfans Legit Check](/blog/usfans-legit-check/) — Authentication markers and quality verification techniques
+- [cssbuy QC Photos Tutorial](/blog/cssbuy-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
+- [cssbuy Sizing Guide](/blog/cssbuy-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
+- [cssbuy Legit Check](/blog/cssbuy-legit-check/) — Authentication markers and quality verification techniques
 
 ## Explore More Categories
 
@@ -334,13 +334,13 @@ Looking to complete your outfit? Check out our other category guides for more cu
   margin: 0;
 }
 
-/* Spreadsheet CTA */
-.spreadsheet-cta {
+/* CSSBuy CTA */
+.CSSBuy-cta {
   margin: 32px 0;
   text-align: center;
 }
 
-.spreadsheet-btn {
+.CSSBuy-btn {
   display: inline-flex;
   align-items: center;
   gap: 10px;
@@ -355,21 +355,21 @@ Looking to complete your outfit? Check out our other category guides for more cu
   box-shadow: 0 4px 12px rgba(139, 0, 0, 0.2);
 }
 
-.spreadsheet-btn:hover {
+.CSSBuy-btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(139, 0, 0, 0.3);
 }
 
-.spreadsheet-btn .btn-icon {
+.CSSBuy-btn .btn-icon {
   font-size: 20px;
 }
 
-.spreadsheet-btn .btn-arrow {
+.CSSBuy-btn .btn-arrow {
   font-size: 18px;
   transition: transform 0.3s ease;
 }
 
-.spreadsheet-btn:hover .btn-arrow {
+.CSSBuy-btn:hover .btn-arrow {
   transform: translateX(4px);
 }
 

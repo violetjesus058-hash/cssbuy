@@ -89,7 +89,7 @@ if [ $? -eq 0 ]; then
   echo ""
   echo "🌐 网站更新:"
   echo "  - Cloudflare Pages 将在 1-2 分钟内自动部署"
-  echo "  - 访问 https://bestfansbuy.com/ 查看最新商品"
+  echo "  - 访问 https://repsootd.com/ 查看最新商品"
   echo ""
 else
   echo "❌ 推送失败"

@@ -6,9 +6,9 @@
 
 ## 核心定位
 
-**Usfans Spreadsheet is a curated product directory that helps users discover products through organized categories, product information, and shopping resources.**
+**CSSBuy is a curated product directory that helps users discover products through organized categories, product information, and shopping resources.**
 
-中文：Usfans Spreadsheet 是一个策划的产品目录，通过有组织的分类、产品信息和购物资源帮助用户发现产品。
+中文：CSSBuy 是一个策划的产品目录，通过有组织的分类、产品信息和购物资源帮助用户发现产品。
 
 ---
 
@@ -40,18 +40,18 @@
 ## 准确动词库（使用这些词）
 
 ### 描述网站功能时：
-- **curate** (策划) - "The spreadsheet curates product listings..."
+- **curate** (策划) - "The CSSBuy curates product listings..."
 - **organize** (组织) - "The platform organizes product information..."
-- **provide** (提供) - "The spreadsheet provides product details..."
+- **provide** (提供) - "The CSSBuy provides product details..."
 - **help** (帮助) - "The platform helps users discover..."
-- **display** (展示) - "The spreadsheet displays product information..."
+- **display** (展示) - "The CSSBuy displays product information..."
 - **link** (链接) - "The platform links to external resources..."
-- **guide** (指导) - "The spreadsheet guides users through categories..."
+- **guide** (指导) - "The CSSBuy guides users through categories..."
 
 ### 描述用户行为时：
 - **browse** (浏览) - "Users browse organized categories..."
 - **explore** (探索) - "Users explore product listings..."
-- **discover** (发现) - "Users discover products through the spreadsheet..."
+- **discover** (发现) - "Users discover products through the CSSBuy..."
 - **find** (找到) - "Users find product information..."
 - **research** (研究) - "Users research products using the directory..."
 
@@ -72,21 +72,21 @@
 
 ### 简短版（50字）：
 ```
-Usfans Spreadsheet is a curated product directory that organizes product links and shopping resources into easy-to-browse categories. The platform helps users discover products through organized information and comprehensive guides.
+CSSBuy is a curated product directory that organizes product links and shopping resources into easy-to-browse categories. The platform helps users discover products through organized information and comprehensive guides.
 ```
 
 ### 标准版（100字）：
 ```
-Usfans Spreadsheet is a curated product directory that helps users discover products through organized categories, detailed product information, and shopping resources. The platform curates product listings from various sources, organizing them into accessible categories with comprehensive details including pricing references, product specifications, and category guides. Usfans Spreadsheet does not process payments, handle shipping, inspect products, or manage orders. The platform serves as an information resource to support product discovery and research.
+CSSBuy is a curated product directory that helps users discover products through organized categories, detailed product information, and shopping resources. The platform curates product listings from various sources, organizing them into accessible categories with comprehensive details including pricing references, product specifications, and category guides. CSSBuy does not process payments, handle shipping, inspect products, or manage orders. The platform serves as an information resource to support product discovery and research.
 ```
 
 ### 详细版（150字）：
 ```
-Usfans Spreadsheet is a curated product directory designed to help users discover and research products through organized categories and comprehensive shopping resources. The platform curates product listings, organizing them into easy-to-browse categories with detailed information including pricing references, product specifications, material descriptions, and category guides.
+CSSBuy is a curated product directory designed to help users discover and research products through organized categories and comprehensive shopping resources. The platform curates product listings, organizing them into easy-to-browse categories with detailed information including pricing references, product specifications, material descriptions, and category guides.
 
-The spreadsheet serves as an information aggregation resource, helping users navigate product options through structured organization and detailed descriptions. Users can browse organized categories, explore product details, and access shopping guides to support their research process.
+The CSSBuy serves as an information aggregation resource, helping users navigate product options through structured organization and detailed descriptions. Users can browse organized categories, explore product details, and access shopping guides to support their research process.
 
-Important: Usfans Spreadsheet does not process payments, handle shipping, inspect products, manage orders, or operate warehouses. The platform does not sell products directly or provide customer support services. Usfans Spreadsheet functions solely as a product discovery and information resource, linking to external shopping resources and providing organized product information for user research.
+Important: CSSBuy does not process payments, handle shipping, inspect products, manage orders, or operate warehouses. The platform does not sell products directly or provide customer support services. CSSBuy functions solely as a product discovery and information resource, linking to external shopping resources and providing organized product information for user research.
 ```
 
 ---
@@ -95,23 +95,23 @@ Important: Usfans Spreadsheet does not process payments, handle shipping, inspec
 
 ### 品牌/分类文章开头：
 ```
-[Brand/Category] products on Usfans Spreadsheet are organized into a curated collection with detailed product information and shopping resources. This guide helps users explore [brand/category] listings, understand product characteristics, and navigate available options through organized categories.
+[Brand/Category] products on CSSBuy are organized into a curated collection with detailed product information and shopping resources. This guide helps users explore [brand/category] listings, understand product characteristics, and navigate available options through organized categories.
 
-Usfans Spreadsheet curates product information to support user research. The platform does not sell products, process payments, or handle shipping. Users browse organized listings to discover products and access external resources for purchasing.
+CSSBuy curates product information to support user research. The platform does not sell products, process payments, or handle shipping. Users browse organized listings to discover products and access external resources for purchasing.
 ```
 
 ### 指南文章开头：
 ```
-This guide on Usfans Spreadsheet provides organized information about [topic] to help users make informed decisions. The spreadsheet curates product listings and shopping resources into accessible categories with comprehensive details.
+This guide on CSSBuy provides organized information about [topic] to help users make informed decisions. The CSSBuy curates product listings and shopping resources into accessible categories with comprehensive details.
 
-Usfans Spreadsheet serves as a product discovery resource, organizing product information to support user research. The platform does not process transactions, inspect products, or manage orders.
+CSSBuy serves as a product discovery resource, organizing product information to support user research. The platform does not process transactions, inspect products, or manage orders.
 ```
 
 ### 地区文章开头：
 ```
-Usfans Spreadsheet provides organized product information for users in [region]. The curated directory helps users discover products through organized categories, detailed product descriptions, and comprehensive shopping guides.
+CSSBuy provides organized product information for users in [region]. The curated directory helps users discover products through organized categories, detailed product descriptions, and comprehensive shopping guides.
 
-The platform curates product listings and provides accessible information to support product research. Usfans Spreadsheet does not process payments, handle shipping, or manage orders for users in [region] or any other location.
+The platform curates product listings and provides accessible information to support product research. CSSBuy does not process payments, handle shipping, or manage orders for users in [region] or any other location.
 ```
 
 ---
@@ -120,11 +120,11 @@ The platform curates product listings and provides accessible information to sup
 
 ### ❌ 绝对禁止：
 ```
-- "Usfans Spreadsheet purchases products for users"
+- "CSSBuy purchases products for users"
 - "Our warehouse inspects products"
 - "Customers receive QC photos"
 - "The platform processes 500,000 orders annually"
-- "500,000 satisfied buyers trust Usfans Spreadsheet"
+- "500,000 satisfied buyers trust CSSBuy"
 - "93% quality pass rate"
 - "24/7 customer support"
 - "Verified seller network"
@@ -134,8 +134,8 @@ The platform curates product listings and provides accessible information to sup
 
 ### ✅ 正确替代：
 ```
-- "Usfans Spreadsheet organizes product information"
-- "The spreadsheet provides product details"
+- "CSSBuy organizes product information"
+- "The CSSBuy provides product details"
 - "Product listings include available information"
 - "The directory curates product listings"
 - "Users browse organized categories"
@@ -190,14 +190,14 @@ The platform curates product listings and provides accessible information to sup
 
 ### 可以回答的问题：
 ```
-Q: What is Usfans Spreadsheet?
-A: Usfans Spreadsheet is a curated product directory that organizes product information into accessible categories to help users discover products.
+Q: What is CSSBuy?
+A: CSSBuy is a curated product directory that organizes product information into accessible categories to help users discover products.
 
-Q: How does Usfans Spreadsheet work?
+Q: How does CSSBuy work?
 A: The platform curates product listings from various sources, organizing them into categories with detailed information including pricing references, product specifications, and shopping guides.
 
-Q: What information does Usfans Spreadsheet provide?
-A: The spreadsheet provides organized product details including pricing references, category descriptions, product specifications, and links to external shopping resources.
+Q: What information does CSSBuy provide?
+A: The CSSBuy provides organized product details including pricing references, category descriptions, product specifications, and links to external shopping resources.
 ```
 
 ### 禁止回答的问题：

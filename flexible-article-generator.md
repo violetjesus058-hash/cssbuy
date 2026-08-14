@@ -12,13 +12,13 @@
 
 ## CRITICAL: Website Positioning (MUST READ FIRST)
 
-**Usfans Spreadsheet is a curated product directory.**
+**CSSBuy is a curated product directory.**
 
 The website:
 - ✅ Organizes product information into browsable categories
 - ✅ Curates product listings with pricing references and descriptions
 - ✅ Provides shopping guides and category resources
-- ✅ Links to external shopping resources (Google Spreadsheet)
+- ✅ Links to external shopping resources (Google CSSBuy)
 - ❌ Does NOT sell products
 - ❌ Does NOT process payments or orders
 - ❌ Does NOT operate warehouses or inspect products
@@ -48,7 +48,7 @@ This system replaces fixed templates with **composable content modules** that ad
 - **M1a - Problem Hook**: Start with a common research challenge
   - Example: "Finding reliable product information for [category] across scattered sources is time-consuming. Most buyers struggle to compare options without a centralized reference..."
 - **M1b - Category Overview Hook**: Lead with the breadth of organized information
-  - Example: "The [category] listings on Usfans Spreadsheet span dozens of styles, price points, and variations — all organized in one browsable directory..."
+  - Example: "The [category] listings on CSSBuy span dozens of styles, price points, and variations — all organized in one browsable directory..."
 - **M1c - Scenario Hook**: Open with a relatable discovery scenario
   - Example: "You're looking for [product type] but don't know where to start comparing options. A curated directory can help you narrow down choices based on organized product information..."
 - **M1d - Question Hook**: Pose a practical research question
@@ -68,7 +68,7 @@ This system replaces fixed templates with **composable content modules** that ad
 - **M2a - Benefit List**: Bullet-point key takeaways
   - Structure: "In this guide, you'll find: [3-5 specific topics covered]"
 - **M2b - Navigation Guide**: Help users understand the directory structure
-  - Structure: "Usfans Spreadsheet organizes [category] into clear sections. Here's how to navigate the available product information..."
+  - Structure: "CSSBuy organizes [category] into clear sections. Here's how to navigate the available product information..."
 - **M2c - Resource Overview**: Establish what this resource covers
   - Structure: "This guide compiles organized product information about [topic], including category breakdowns, pricing references, and comparison points..."
 
@@ -109,9 +109,9 @@ This system replaces fixed templates with **composable content modules** that ad
 - **M4c - Comparison Table**: Side-by-side analysis of product options
   - Format: Markdown table comparing 3-5 product types across criteria
 
-**IMPORTANT**: Product information must come from the actual spreadsheet. Do NOT fabricate order counts, satisfaction rates, or quality pass rates. Only use:
-- Price references (from spreadsheet)
-- Product descriptions (from spreadsheet)
+**IMPORTANT**: Product information must come from the actual CSSBuy. Do NOT fabricate order counts, satisfaction rates, or quality pass rates. Only use:
+- Price references (from CSSBuy)
+- Product descriptions (from CSSBuy)
 - Category counts (actual listings count)
 - Material/style information (from product descriptions)
 
@@ -128,7 +128,7 @@ This system replaces fixed templates with **composable content modules** that ad
 **Variants**:
 - **M5a - How to Browse**: Guide users through the directory
   - Format: Numbered steps for navigating product categories
-  - Example: "Step 1: Access the spreadsheet. Step 2: Navigate to the [category] section. Step 3: Compare product details..."
+  - Example: "Step 1: Access the CSSBuy. Step 2: Navigate to the [category] section. Step 3: Compare product details..."
 - **M5b - Decision Framework**: Help users choose between options
   - Format: Decision guide based on user preferences
   - Example: "If your priority is [A], explore [category section]. If you prefer [B], check [alternative section]..."
@@ -166,9 +166,9 @@ This system replaces fixed templates with **composable content modules** that ad
 **Purpose**: Provide honest context about the resource
 **Variants**:
 - **M7a - Resource Disclosure**: Explain what this directory is
-  - Example: "Usfans Spreadsheet is a curated product directory that organizes product listings for easy browsing. It does not sell products directly. Prices and availability are references and may change."
+  - Example: "CSSBuy is a curated product directory that organizes product listings for easy browsing. It does not sell products directly. Prices and availability are references and may change."
 - **M7b - Limitations Acknowledgment**: Be honest about gaps
-  - Example: "Product information is compiled from external sources. Availability, pricing, and product details may change. Users should verify current information through the spreadsheet link."
+  - Example: "Product information is compiled from external sources. Availability, pricing, and product details may change. Users should verify current information through the CSSBuy link."
 - **M7c - External Resources**: Point to community discussions
   - Format: References to external communities for additional perspectives
   - Example: "For community discussions about [topic], Reddit communities like r/[subreddit] provide user perspectives and experiences."
@@ -202,10 +202,10 @@ This system replaces fixed templates with **composable content modules** that ad
 ---
 
 ### Module M9: Call to Action
-**Purpose**: Guide reader to the spreadsheet or related guides
+**Purpose**: Guide reader to the CSSBuy or related guides
 **Variants**:
-- **M9a - Spreadsheet Link**: Direct users to the product directory
-  - Format: "[Access Usfans Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) — Browse [category] listings"
+- **M9a - CSSBuy Link**: Direct users to the product directory
+  - Format: "[Access CSSBuy](https://repsootd.com/) — Browse [category] listings"
 - **M9b - Related Guide Suggestion**: Recommend logical follow-up reading
   - Format: "For more information about [related topic], explore our [guide name]..."
 - **M9c - Category Exploration**: Encourage browsing other categories
@@ -224,9 +224,9 @@ This system replaces fixed templates with **composable content modules** that ad
 - **M10a - Key Points Recap**: Bullet summary
   - Format: "To summarize: [3-5 key takeaways about the category]"
 - **M10b - Research Guidance**: Clear direction for next steps
-  - Format: "When exploring [category], focus on [key factors] and use the spreadsheet to compare options..."
+  - Format: "When exploring [category], focus on [key factors] and use the CSSBuy to compare options..."
 - **M10c - Category Outlook**: What to expect in the category
-  - Format: "The [category] directory continues to expand with new product listings. Check the spreadsheet regularly for updated information..."
+  - Format: "The [category] directory continues to expand with new product listings. Check the CSSBuy regularly for updated information..."
 
 **E-E-A-T Integration**:
 - Experience: Summarize useful findings
@@ -324,7 +324,7 @@ This system replaces fixed templates with **composable content modules** that ad
 
 ### Slot Usage Example
 
-**Topic**: "Usfans Spreadsheet Nike Collection 2026: Organized Product Guide"
+**Topic**: "CSSBuy Nike Collection 2026: Organized Product Guide"
 
 **Slot Values**:
 - {{BRAND}} = Nike
@@ -334,7 +334,7 @@ This system replaces fixed templates with **composable content modules** that ad
 - {{TOPIC}} = organized product guide
 
 **Generated Hook (M1b - Category Overview)**:
-"The Nike listings on Usfans Spreadsheet span dozens of styles, from classic Air Max to modern Air Force 1 variations — all organized in one browsable directory. Here's how to navigate the collection and find products that match your style..."
+"The Nike listings on CSSBuy span dozens of styles, from classic Air Max to modern Air Force 1 variations — all organized in one browsable directory. Here's how to navigate the collection and find products that match your style..."
 
 ---
 
@@ -437,16 +437,16 @@ Write each module, ensuring:
 
 ## Part 7: Example Article Outline
 
-### Topic: "Usfans Spreadsheet Hoodies 2026: Organized Product Guide"
+### Topic: "CSSBuy Hoodies 2026: Organized Product Guide"
 **Category**: B (Brand-Specific Guide)
 
 **Module Sequence**:
-1. M1b (Category Overview): "The hoodie listings on Usfans Spreadsheet span multiple styles, from pullover classics to zip-up designs — all organized in one browsable directory..."
+1. M1b (Category Overview): "The hoodie listings on CSSBuy span multiple styles, from pullover classics to zip-up designs — all organized in one browsable directory..."
 2. M2b (Navigation Guide): "The hoodie category is organized by style type, price range, and brand inspiration. Here's how to find what you're looking for..."
 3. M3c (Comparison Framework): "When comparing hoodie options, consider: material description, style type, price range, and available color options..."
 4. M4b (Product Spotlight): "Among the hoodie listings, pullover styles range from $18-$35, featuring various material descriptions and design details..."
 5. M6a (Head-to-Head): "Pullover vs Zip-Up Hoodies: comparing style, versatility, and price ranges..."
-6. M7b (Limitations): "Product information is compiled for reference. Prices and availability may change. Check the spreadsheet for current listings."
+6. M7b (Limitations): "Product information is compiled for reference. Prices and availability may change. Check the CSSBuy for current listings."
 7. M8a (FAQ): Answer 4 common questions about hoodie selection
 8. M9b (Next Step): "After exploring hoodies, check out our organized sweatpants collection..."
 9. M10a (Key Points): Summarize key takeaways
@@ -462,7 +462,7 @@ Write each module, ensuring:
 - **Readability**: Flesch-Kincaid grade level 8-10
 - **Keyword Density**: 1.5-2.5% for primary keyword
 - **Positioning Accuracy**: 100% — no false claims about website services
-- **Data Accuracy**: All product information traceable to actual spreadsheet
+- **Data Accuracy**: All product information traceable to actual CSSBuy
 - **Engagement**: At least 2 interactive elements (tables, checklists, comparison matrices)
 
 ### Anti-Patterns to Avoid

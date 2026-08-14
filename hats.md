@@ -1,10 +1,10 @@
 ---
-title: 'USFans Hats Spreadsheet | Hat Finds, Caps and Style Guides'
-description: 'Explore the USFans Hats Spreadsheet for hats, caps, beanies, bucket hats and fit guides. Compare focused USFans hat finds by style, materials and everyday use.'
+title: 'CSSBuy Hats | Hat Finds, Caps and Style Guides'
+description: 'Explore the CSSBuy Hats for hats, caps, beanies, bucket hats and fit guides. Compare focused cssbuy hat finds by style, materials and everyday use.'
 category: Accessories
 tags:
-- USFans Hats Spreadsheet
-- USFans Hat Finds
+- CSSBuy Hats
+- cssbuy Hat Finds
 - Hats and Caps
 - Accessory Guides
 updated: '2026-08-14T00:00:00Z'
@@ -15,38 +15,38 @@ import { siteConfig } from './.vitepress/theme/site-config.js'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const hatsCategory = siteConfig.categories.find(c => c.id === 'hats')
-const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
+const CSSBuyLink = 'https://repsootd.com/'
 
 const productTypes = [
   {
     icon: '🧢',
     name: 'Snapback Caps',
     desc: 'Adjustable flat-brim caps with plastic snap closure. Structured crown maintains shape. Popular in streetwear for bold graphics and logos. One size fits most with 7-position snap adjustment.',
-    link: '/blog/usfans-caps/'
+    link: '/blog/cssbuy-caps/'
   },
   {
     icon: '',
     name: 'Beanies',
     desc: 'Knit caps made from acrylic, wool, or cotton blends. Ribbed construction provides stretch and warmth. Available in cuffed (12-15cm height), slouchy, and fisherman styles. Essential for cold weather layering.',
-    link: '/blog/usfans-hats/'
+    link: '/blog/cssbuy-hats/'
   },
   {
     icon: '👒',
     name: 'Bucket Hats',
     desc: 'Wide-brimmed hats (5-8cm brim) for sun protection. Made from cotton twill, nylon, or denim. Packable designs for travel. Popular in 90s revival and outdoor aesthetics.',
-    link: '/blog/usfans-hats-guide/'
+    link: '/blog/cssbuy-hats-guide/'
   },
   {
     icon: '',
     name: 'Dad Hats',
     desc: 'Unstructured 6-panel caps with curved brim (7-8cm). Low profile fits closer to head. Adjustable strap (metal buckle or velcro). Relaxed, vintage look that works with casual outfits.',
-    link: '/blog/usfans-caps/'
+    link: '/blog/cssbuy-caps/'
   },
   {
     icon: '',
     name: 'Fitted Caps',
     desc: 'Structured caps with fixed sizing (measured in inches, e.g., 7 1/4). No adjustable strap for clean silhouette. Premium construction with embroidered logos. Requires accurate head measurement.',
-    link: '/blog/usfans-hats-guide/'
+    link: '/blog/cssbuy-hats-guide/'
   },
 ]
 
@@ -183,14 +183,14 @@ const brandOverview = [
 ]
 </script>
 
-# USFans Hats Spreadsheet
+# CSSBuy Hats
 
-The USFans Hats Spreadsheet covers caps, beanies, bucket hats, fitted styles and everyday finishing pieces. Use the linked article cards below to compare fit, material, structure and styling context before exploring relevant USFans hat finds.
+The CSSBuy Hats covers caps, beanies, bucket hats, fitted styles and everyday finishing pieces. Use the linked article cards below to compare fit, material, structure and styling context before exploring relevant cssbuy hat finds.
 
-<div class="spreadsheet-cta">
-  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
+<div class="CSSBuy-cta">
+  <a :href="CSSBuyLink" target="_blank" class="CSSBuy-btn">
     <span class="btn-icon"></span>
-    <span>View Hats Spreadsheet</span>
+    <span>View Hats CSSBuy</span>
     <span class="btn-arrow">→</span>
   </a>
   <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
@@ -367,11 +367,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these hat-specific resources:
 
-- [Usfans Hats Guide](/blog/usfans-hats/) — Hat styles, brand comparisons, and quality checks for 2026
-- [Usfans Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
-- [Usfans Accessories Guide](/blog/usfans-accessories/) — Complete accessories overview including hats, belts, and more
-- [Usfans QC Photos](/blog/usfans-qc-photos/) — How to inspect hat quality using pre-shipment photos
-- [Usfans Legit Check](/blog/usfans-legit-check/) — Authentication markers for branded headwear
+- [cssbuy Hats Guide](/blog/cssbuy-hats/) — Hat styles, brand comparisons, and quality checks for 2026
+- [cssbuy Streetwear Guide](/blog/cssbuy-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
+- [cssbuy Accessories Guide](/blog/cssbuy-accessories/) — Complete accessories overview including hats, belts, and more
+- [cssbuy QC Photos](/blog/cssbuy-qc-photos/) — How to inspect hat quality using pre-shipment photos
+- [cssbuy Legit Check](/blog/cssbuy-legit-check/) — Authentication markers for branded headwear
 
 ## Explore More Categories
 
@@ -457,13 +457,13 @@ Looking to complete your outfit? Check out our other category guides for more cu
   margin: 0;
 }
 
-/* Spreadsheet CTA */
-.spreadsheet-cta {
+/* CSSBuy CTA */
+.CSSBuy-cta {
   margin: 32px 0;
   text-align: center;
 }
 
-.spreadsheet-btn {
+.CSSBuy-btn {
   display: inline-flex;
   align-items: center;
   gap: 10px;
@@ -478,21 +478,21 @@ Looking to complete your outfit? Check out our other category guides for more cu
   box-shadow: 0 4px 12px rgba(139, 0, 0, 0.2);
 }
 
-.spreadsheet-btn:hover {
+.CSSBuy-btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(139, 0, 0, 0.3);
 }
 
-.spreadsheet-btn .btn-icon {
+.CSSBuy-btn .btn-icon {
   font-size: 20px;
 }
 
-.spreadsheet-btn .btn-arrow {
+.CSSBuy-btn .btn-arrow {
   font-size: 18px;
   transition: transform 0.3s ease;
 }
 
-.spreadsheet-btn:hover .btn-arrow {
+.CSSBuy-btn:hover .btn-arrow {
   transform: translateX(4px);
 }
 

@@ -3,14 +3,14 @@
     <section class="hero-section">
       <div class="page-container hero-content">
         <p class="eyebrow">Curated fashion discovery · Updated regularly</p>
-        <h1>USFans Spreadsheet <span>2026</span></h1>
+        <h1>CSSBuy <span>2026</span></h1>
         <p class="hero-copy">
-          Discover organized USFans finds across clothing, shoes, pants, hats, accessories and electronics,
-          with category overviews, focused guides and direct access to the full spreadsheet.
+          Discover organized CSSBuy product finds across clothing, shoes, pants, hats, accessories and electronics,
+          with category overviews, focused guides and direct access to the full CSSBuy.
         </p>
         <div class="hero-actions">
-          <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="button button-primary cta-spreadsheet">
-            Explore the spreadsheet
+          <a :href="links.shopping" target="_blank" rel="nofollow" class="button button-primary cta-CSSBuy">
+            Explore the CSSBuy
             <span aria-hidden="true">↗</span>
           </a>
           <a :href="shoppingUrl" target="_blank" rel="nofollow" class="button button-secondary cta-shopping">
@@ -90,7 +90,7 @@
             The site is designed around practical navigation, clear detail pages and a catalog that is easy to
             return to whenever you need it.
           </p>
-          <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="text-link cta-spreadsheet">
+          <a :href="links.shopping" target="_blank" rel="nofollow" class="text-link cta-CSSBuy">
             Open the full catalog <span aria-hidden="true">→</span>
           </a>
         </div>
@@ -109,10 +109,10 @@
         <div>
           <p class="section-kicker">Ready when you are</p>
           <h2>Explore the full fashion catalog.</h2>
-          <p>Access the spreadsheet directly, then come back to the guides whenever you need more context.</p>
+          <p>Access the CSSBuy directly, then come back to the guides whenever you need more context.</p>
         </div>
-        <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="button button-light cta-spreadsheet">
-          Access spreadsheet <span aria-hidden="true">↗</span>
+        <a :href="links.shopping" target="_blank" rel="nofollow" class="button button-light cta-CSSBuy">
+          Access CSSBuy <span aria-hidden="true">↗</span>
         </a>
       </div>
     </section>
@@ -142,45 +142,45 @@ const { links } = siteConfig
 const shoppingUrl = 'https://repsootd.com/'
 
 const categoryCards = computed(() => [
-  { id: 'sneakers', name: 'Sneakers', description: 'Dedicated guide to sneaker styles and product discovery.', link: '/blog/usfans-sneakers/', icon: '👟' },
-  { id: 'shoes', name: 'Shoes', description: 'Browse footwear options beyond the main sneaker collection.', link: '/blog/usfans-shoes/', icon: '👞' },
-  { id: 'hoodies', name: 'Hoodies', description: 'Explore hoodies, layers and casual everyday essentials.', link: '/blog/usfans-hoodie/', icon: '🧥' },
-  { id: 't-shirts', name: 'T-Shirts', description: 'Find staple tees and graphic shirt discovery resources.', link: '/blog/usfans-t-shirt/', icon: '👕' },
-  { id: 'jackets', name: 'Jackets', description: 'Discover jackets and outerwear guides by style.', link: '/blog/usfans-jacket/', icon: '🧤' },
-  { id: 'jeans', name: 'Jeans', description: 'Browse denim and jeans-focused product guidance.', link: '/blog/usfans-jeans/', icon: '👖' },
-  { id: 'pants', name: 'Pants', description: 'Explore trousers, sweatpants and everyday bottoms.', link: '/blog/usfans-pants/', icon: '🩳' },
-  { id: 'shorts', name: 'Shorts', description: 'Find shorts for casual and warm-weather outfits.', link: '/blog/usfans-shorts/', icon: '🩳' },
-  { id: 'tracksuits', name: 'Tracksuits', description: 'Browse coordinated tracksuits and sport-inspired looks.', link: '/blog/usfans-tracksuit/', icon: '🏃' },
-  { id: 'dresses', name: 'Dresses', description: 'Explore dress styles and clothing discovery options.', link: '/blog/usfans-dress/', icon: '👗' },
-  { id: 'hats', name: 'Hats & Caps', description: 'Find caps, hats and finishing pieces for your outfit.', link: '/blog/usfans-hats/', icon: '🧢' },
-  { id: 'bags', name: 'Bags', description: 'Browse bag guides across everyday and statement styles.', link: '/blog/usfans-bags/', icon: '👜' },
-  { id: 'accessories', name: 'Accessories', description: 'Explore belts, small goods and complementary details.', link: '/blog/usfans-accessories/', icon: '✨' },
-  { id: 'watches', name: 'Watches', description: 'Discover watch guides and wearable accessory options.', link: '/blog/usfans-watches/', icon: '⌚' },
-  { id: 'sunglasses', name: 'Sunglasses', description: 'Browse eyewear and sunglasses discovery resources.', link: '/blog/usfans-sunglasses/', icon: '🕶️' }
+  { id: 'sneakers', name: 'Sneakers', description: 'Dedicated guide to sneaker styles and product discovery.', link: '/blog/cssbuy-sneakers/', icon: '👟' },
+  { id: 'shoes', name: 'Shoes', description: 'Browse footwear options beyond the main sneaker collection.', link: '/blog/cssbuy-shoes/', icon: '👞' },
+  { id: 'hoodies', name: 'Hoodies', description: 'Explore hoodies, layers and casual everyday essentials.', link: '/blog/cssbuy-hoodie/', icon: '🧥' },
+  { id: 't-shirts', name: 'T-Shirts', description: 'Find staple tees and graphic shirt discovery resources.', link: '/blog/cssbuy-t-shirt/', icon: '👕' },
+  { id: 'jackets', name: 'Jackets', description: 'Discover jackets and outerwear guides by style.', link: '/blog/cssbuy-jacket/', icon: '🧤' },
+  { id: 'jeans', name: 'Jeans', description: 'Browse denim and jeans-focused product guidance.', link: '/blog/cssbuy-jeans/', icon: '👖' },
+  { id: 'pants', name: 'Pants', description: 'Explore trousers, sweatpants and everyday bottoms.', link: '/blog/cssbuy-pants/', icon: '🩳' },
+  { id: 'shorts', name: 'Shorts', description: 'Find shorts for casual and warm-weather outfits.', link: '/blog/cssbuy-shorts/', icon: '🩳' },
+  { id: 'tracksuits', name: 'Tracksuits', description: 'Browse coordinated tracksuits and sport-inspired looks.', link: '/blog/cssbuy-tracksuit/', icon: '🏃' },
+  { id: 'dresses', name: 'Dresses', description: 'Explore dress styles and clothing discovery options.', link: '/blog/cssbuy-dress/', icon: '👗' },
+  { id: 'hats', name: 'Hats & Caps', description: 'Find caps, hats and finishing pieces for your outfit.', link: '/blog/cssbuy-hats/', icon: '🧢' },
+  { id: 'bags', name: 'Bags', description: 'Browse bag guides across everyday and statement styles.', link: '/blog/cssbuy-bags/', icon: '👜' },
+  { id: 'accessories', name: 'Accessories', description: 'Explore belts, small goods and complementary details.', link: '/blog/cssbuy-accessories/', icon: '✨' },
+  { id: 'watches', name: 'Watches', description: 'Discover watch guides and wearable accessory options.', link: '/blog/cssbuy-watches/', icon: '⌚' },
+  { id: 'sunglasses', name: 'Sunglasses', description: 'Browse eyewear and sunglasses discovery resources.', link: '/blog/cssbuy-sunglasses/', icon: '🕶️' }
 ])
 
 const steps = [
   { title: 'Choose a category', description: 'Start with the product type or style you want to explore.' },
   { title: 'Review the guides', description: 'Use structured pages to understand details, sizing and context.' },
-  { title: 'Open the catalog', description: 'Browse the spreadsheet for a broader selection of fashion finds.' },
+  { title: 'Open the catalog', description: 'Browse the CSSBuy for a broader selection of fashion finds.' },
   { title: 'Make your shortlist', description: 'Compare options and return to the resources whenever you need them.' }
 ]
 
 const features = [
   { mark: '01', title: 'Clear structure', description: 'Focused categories make it faster to reach the content that matters.' },
   { mark: '02', title: 'Useful context', description: 'Guides provide practical background before you move to the catalog.' },
-  { mark: '03', title: 'Easy access', description: 'Open the full spreadsheet from any key point on the homepage.' },
+  { mark: '03', title: 'Easy access', description: 'Open the full CSSBuy from any key point on the homepage.' },
   { mark: '04', title: 'Always current', description: 'A simple system for returning to collections and new discovery paths.' }
 ]
 
 const faqs = [
   {
-    question: 'What is the fashion spreadsheet?',
+    question: 'What is the fashion CSSBuy?',
     answer: 'It is a curated directory for browsing fashion items through organized categories and direct product resources.'
   },
   {
     question: 'How should I start exploring?',
-    answer: 'Choose a category on this page, read the related guide, then use the spreadsheet to browse a wider selection.'
+    answer: 'Choose a category on this page, read the related guide, then use the CSSBuy to browse a wider selection.'
   },
   {
     question: 'Can I access the catalog on mobile?',

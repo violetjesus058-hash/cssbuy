@@ -1,10 +1,10 @@
 ---
 layout: home
-categoryName: USFans Electronics Spreadsheet
-title: 'USFans Electronics Spreadsheet | Tech Finds and Device Guides'
-description: 'Explore the USFans Electronics Spreadsheet for electronics, phones, iPhone resources, AirPods and tech gadgets. Compare focused USFans electronics finds by compatibility and use.'
+categoryName: CSSBuy Electronics
+title: 'CSSBuy Electronics | Tech Finds and Device Guides'
+description: 'Explore the CSSBuy Electronics for electronics, phones, iPhone resources, AirPods and tech gadgets. Compare focused cssbuy electronics finds by compatibility and use.'
 heroSubtitle: Electronics, phones, iPhone resources, AirPods and tech gadgets—organized into direct guide paths.
-introText: The USFans Electronics Spreadsheet brings together technology-focused guides for electronics, phones, iPhone resources, AirPods and everyday gadgets. Use the article cards below to compare compatibility, specifications, accessories and practical use before browsing USFans electronics finds.
+introText: The CSSBuy Electronics brings together technology-focused guides for electronics, phones, iPhone resources, AirPods and everyday gadgets. Use the article cards below to compare compatibility, specifications, accessories and practical use before browsing cssbuy electronics finds.
 editorNotes:
 - title: Confirm compatibility first
   content: Match a device or accessory to the operating system, port standard, region and model generation you use. Compatibility is the first condition to verify before comparing optional features.
@@ -15,19 +15,19 @@ editorNotes:
 collections:
 - title: Electronics Guide
   description: Browse general electronics topics, device context and practical comparison starting points.
-  link: /blog/usfans-electronics/
+  link: /blog/cssbuy-electronics/
 - title: Phones Guide
   description: Explore phone-focused articles with compatibility and daily-use comparison cues.
-  link: /blog/usfans-phone/
+  link: /blog/cssbuy-phone/
 - title: iPhone Guide
   description: Review iPhone-related resources, accessories and model-specific considerations.
-  link: /blog/usfans-iphone/
+  link: /blog/cssbuy-iphone/
 - title: AirPods Guide
   description: Read AirPods-focused information with fit, connectivity and use-case context.
-  link: /blog/usfans-airpods/
+  link: /blog/cssbuy-airpods/
 - title: Tech Gadgets Guide
   description: Discover everyday technology accessories and focused gadget comparison notes.
-  link: /blog/usfans-tech-gadgets/
+  link: /blog/cssbuy-tech-gadgets/
 brands:
 - Phones and mobile devices
 - Audio accessories
@@ -38,26 +38,26 @@ buyingGuide:
   howToChoose: Define the device you already use, the setting in which you need the accessory or product, and the feature that would make the option useful. Then compare documented compatibility before comparing secondary features.
   whatToLookFor: Check the connector type, supported device models, power or charging requirements, connectivity standard, dimensions and included accessories. Keep any missing specification as a verification question.
 faq:
-- question: What can I find in the USFans Electronics Spreadsheet?
+- question: What can I find in the CSSBuy Electronics?
   answer: The category organizes electronics, phones, iPhone resources, AirPods and tech gadgets, with each card linking to a related on-site guide.
 - question: How do I compare electronic accessories?
   answer: Begin with the device model and connection standard you use. Then compare the documented compatibility, charging or power requirements, included accessories and everyday use context.
 - question: Why do the guide cards link to articles first?
-  answer: The guide pages provide context and comparison criteria before you continue to broader spreadsheet browsing, helping you make a more deliberate shortlist.
+  answer: The guide pages provide context and comparison criteria before you continue to broader CSSBuy browsing, helping you make a more deliberate shortlist.
 relatedArticles:
-- title: USFans Electronics Guide
-  link: /blog/usfans-electronics/
+- title: cssbuy Electronics Guide
+  link: /blog/cssbuy-electronics/
   desc: General technology discovery and comparison context.
-- title: USFans iPhone Guide
-  link: /blog/usfans-iphone/
+- title: cssbuy iPhone Guide
+  link: /blog/cssbuy-iphone/
   desc: iPhone-related resources and compatibility-focused reading.
-- title: USFans AirPods Guide
-  link: /blog/usfans-airpods/
+- title: cssbuy AirPods Guide
+  link: /blog/cssbuy-airpods/
   desc: AirPods-focused guide content and practical questions to verify.
 category: Electronics
 tags:
-- USFans Electronics Spreadsheet
-- USFans Electronics Finds
+- CSSBuy Electronics
+- cssbuy Electronics Finds
 - Tech Guides
 - Device Discovery
 updated: '2026-08-14T00:00:00Z'

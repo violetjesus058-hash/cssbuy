@@ -43,7 +43,7 @@
         <a href="/blog/" class="nav-item" :class="{ active: isActive('/blog') }" @click="closeMenus">Guides</a>
       </nav>
 
-      <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="nav-cta">Access Spreadsheet <span aria-hidden="true">↗</span></a>
+      <a :href="links.shopping" target="_blank" rel="nofollow" class="nav-cta">Access CSSBuy <span aria-hidden="true">↗</span></a>
     </div>
   </header>
 </template>
@@ -65,12 +65,12 @@ const menuGroups = [
     label: 'Clothing',
     overviewLink: '/clothes',
     items: [
-      { label: 'Hoodies', link: '/blog/usfans-hoodie/' },
-      { label: 'T-Shirts', link: '/blog/usfans-t-shirt/' },
-      { label: 'Shirts', link: '/blog/usfans-shirt/' },
-      { label: 'Jackets', link: '/blog/usfans-jacket/' },
-      { label: 'Dresses', link: '/blog/usfans-dress/' },
-      { label: 'Vests', link: '/blog/usfans-vest/' }
+      { label: 'Hoodies', link: '/blog/cssbuy-hoodie/' },
+      { label: 'T-Shirts', link: '/blog/cssbuy-t-shirt/' },
+      { label: 'Shirts', link: '/blog/cssbuy-shirt/' },
+      { label: 'Jackets', link: '/blog/cssbuy-jacket/' },
+      { label: 'Dresses', link: '/blog/cssbuy-dress/' },
+      { label: 'Vests', link: '/blog/cssbuy-vest/' }
     ]
   },
   {
@@ -78,11 +78,11 @@ const menuGroups = [
     label: 'Pants',
     overviewLink: '/pants',
     items: [
-      { label: 'Jeans', link: '/blog/usfans-jeans/' },
-      { label: 'Pants', link: '/blog/usfans-pants/' },
-      { label: 'Shorts', link: '/blog/usfans-shorts/' },
-      { label: 'Sweatpants', link: '/blog/usfans-sweatpants/' },
-      { label: 'Tracksuits', link: '/blog/usfans-tracksuit/' }
+      { label: 'Jeans', link: '/blog/cssbuy-jeans/' },
+      { label: 'Pants', link: '/blog/cssbuy-pants/' },
+      { label: 'Shorts', link: '/blog/cssbuy-shorts/' },
+      { label: 'Sweatpants', link: '/blog/cssbuy-sweatpants/' },
+      { label: 'Tracksuits', link: '/blog/cssbuy-tracksuit/' }
     ]
   },
   {
@@ -90,12 +90,12 @@ const menuGroups = [
     label: 'Shoes',
     overviewLink: '/shoes',
     items: [
-      { label: 'Sneakers', link: '/blog/usfans-sneakers/' },
-      { label: 'Basketball Shoes', link: '/blog/usfans-basketball-shoes/' },
-      { label: 'Running Shoes', link: '/blog/usfans-running-shoes/' },
-      { label: 'Football Shoes', link: '/blog/usfans-football-shoes/' },
-      { label: 'Hiking Shoes', link: '/blog/usfans-hiking-shoes/' },
-      { label: 'Boots', link: '/blog/usfans-football-boots/' }
+      { label: 'Sneakers', link: '/blog/cssbuy-sneakers/' },
+      { label: 'Basketball Shoes', link: '/blog/cssbuy-basketball-shoes/' },
+      { label: 'Running Shoes', link: '/blog/cssbuy-running-shoes/' },
+      { label: 'Football Shoes', link: '/blog/cssbuy-football-shoes/' },
+      { label: 'Hiking Shoes', link: '/blog/cssbuy-hiking-shoes/' },
+      { label: 'Boots', link: '/blog/cssbuy-football-boots/' }
     ]
   },
   {
@@ -103,9 +103,9 @@ const menuGroups = [
     label: 'Hats',
     overviewLink: '/hats',
     items: [
-      { label: 'Hats', link: '/blog/usfans-hats/' },
-      { label: 'Caps', link: '/blog/usfans-caps/' },
-      { label: 'Hats Guide', link: '/blog/usfans-hats-guide/' }
+      { label: 'Hats', link: '/blog/cssbuy-hats/' },
+      { label: 'Caps', link: '/blog/cssbuy-caps/' },
+      { label: 'Hats Guide', link: '/blog/cssbuy-hats-guide/' }
     ]
   },
   {
@@ -113,12 +113,12 @@ const menuGroups = [
     label: 'Accessories',
     overviewLink: '/accessories',
     items: [
-      { label: 'Bags', link: '/blog/usfans-bags/' },
-      { label: 'Belts', link: '/blog/usfans-belt/' },
-      { label: 'Jewelry', link: '/blog/usfans-jewelry/' },
-      { label: 'Sunglasses', link: '/blog/usfans-sunglasses/' },
-      { label: 'Watches', link: '/blog/usfans-watches/' },
-      { label: 'Wallets', link: '/blog/usfans-wallet/' }
+      { label: 'Bags', link: '/blog/cssbuy-bags/' },
+      { label: 'Belts', link: '/blog/cssbuy-belt/' },
+      { label: 'Jewelry', link: '/blog/cssbuy-jewelry/' },
+      { label: 'Sunglasses', link: '/blog/cssbuy-sunglasses/' },
+      { label: 'Watches', link: '/blog/cssbuy-watches/' },
+      { label: 'Wallets', link: '/blog/cssbuy-wallet/' }
     ]
   },
   {
@@ -126,11 +126,11 @@ const menuGroups = [
     label: 'Electronics',
     overviewLink: '/electronics',
     items: [
-      { label: 'Electronics', link: '/blog/usfans-electronics/' },
-      { label: 'Phones', link: '/blog/usfans-phone/' },
-      { label: 'iPhone', link: '/blog/usfans-iphone/' },
-      { label: 'AirPods', link: '/blog/usfans-airpods/' },
-      { label: 'Tech Gadgets', link: '/blog/usfans-tech-gadgets/' }
+      { label: 'Electronics', link: '/blog/cssbuy-electronics/' },
+      { label: 'Phones', link: '/blog/cssbuy-phone/' },
+      { label: 'iPhone', link: '/blog/cssbuy-iphone/' },
+      { label: 'AirPods', link: '/blog/cssbuy-airpods/' },
+      { label: 'Tech Gadgets', link: '/blog/cssbuy-tech-gadgets/' }
     ]
   }
 ]

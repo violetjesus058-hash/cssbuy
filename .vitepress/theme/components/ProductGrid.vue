@@ -100,7 +100,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'Sweater',
     image: 'https://si.geilicdn.com/pcitem901908374288-70d600000193b0a41fa30a231316_1600_1600.jpg',
-    link: 'https://Kakobuy.com/item-micro-7572836729.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7572864219,
@@ -110,7 +110,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'T-shirt',
     image: 'https://si.geilicdn.com/open1624782517-1624782517-755000000194ead414340a22d234_1920_1920.jpg',
-    link: 'https://Kakobuy.com/item-micro-7572864219.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7572812731,
@@ -120,7 +120,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'T-shirt',
     image: 'https://si.geilicdn.com/open1624782517-1624782517-02a900000196a570751c0a23b4de_800_800.jpg',
-    link: 'https://Kakobuy.com/item-micro-7572812731.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7574744386,
@@ -130,7 +130,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'T-shirt',
     image: 'https://si.geilicdn.com/open1875660057-252808396-7ede000001919e4cc1270a22d234_1097_1097.jpg',
-    link: 'https://Kakobuy.com/item-micro-7574744386.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7574795754,
@@ -140,7 +140,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'T-shirt',
     image: 'https://si.geilicdn.com/open1831483949-1831483949-7e2b0000019bd58a54dc0aa08245-unadjust_326_349.png',
-    link: 'https://Kakobuy.com/item-micro-7574795754.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7574705188,
@@ -150,7 +150,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'T-shirt',
     image: 'https://si.geilicdn.com/pcitem901903640419-78f900000192e730b7050a239846_1920_1920.jpg',
-    link: 'https://Kakobuy.com/item-micro-7574705188.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7574805716,
@@ -160,7 +160,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'Jersey',
     image: 'https://si.geilicdn.com/open1831483949-1831483949-131b0000019bd5ba10480a22d249-unadjust_323_323.png',
-    link: 'https://Kakobuy.com/item-micro-7574805716.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7572844599,
@@ -170,7 +170,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'Jersey',
     image: 'https://si.geilicdn.com/open1624782517-1624782517-7fe300000199e2ad8bc90aa006e9-unadjust_1031_1031.png',
-    link: 'https://Kakobuy.com/item-micro-7572844599.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7574738806,
@@ -180,7 +180,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'Jersey',
     image: 'https://si.geilicdn.com/open1624782517-1624782517-48c300000199e2ada7310aa081c2-unadjust_978_978.png',
-    link: 'https://Kakobuy.com/item-micro-7574738806.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   },
   {
     id: 7572793335,
@@ -190,7 +190,7 @@ const products = [
     primaryCategory: 'Clothing',
     secondaryCategory: 'T-shirt',
     image: 'https://si.geilicdn.com/open1718289365-1234478995-545800000194966be72b0a232357_1600_1600.jpg',
-    link: 'https://Kakobuy.com/item-micro-7572793335.html?promotionCode=R0dfTU9DRzA2VTk'
+    link: 'https://repsootd.com/'
   }
 ]
 

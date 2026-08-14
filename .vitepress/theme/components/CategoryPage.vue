@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="container">
         <h1>{{ categoryName }}</h1>
-        <p>{{ frontmatter.heroSubtitle || 'Explore category context, reading paths, and related Usfans Spreadsheet resources.' }}</p>
+        <p>{{ frontmatter.heroSubtitle || 'Explore category context, reading paths, and related CSSBuy resources.' }}</p>
       </div>
     </section>
 
@@ -41,12 +41,12 @@
     <section class="collections">
       <div class="container">
         <h2>Explore category guides</h2>
-        <p class="section-intro">Choose a topic to read its dedicated guide, compare key details, and continue to the relevant Usfans Spreadsheet resources.</p>
+        <p class="section-intro">Choose a topic to read its dedicated guide, compare key details, and continue to the relevant CSSBuy resources.</p>
         <div class="collections-grid">
           <a
             v-for="collection in collections"
             :key="collection.title"
-            :href="collection.link || spreadsheetUrl"
+            :href="collection.link || CSSBuyUrl"
             :target="collection.link ? undefined : '_blank'"
             :rel="collection.link ? undefined : 'nofollow noopener noreferrer'"
             class="collection-card"
@@ -138,7 +138,7 @@ import { useData } from 'vitepress'
 const { frontmatter } = useData()
 const categoryName = computed(() => frontmatter.value.categoryName || 'Category')
 const collections = computed(() => frontmatter.value.collections || [])
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
+const CSSBuyUrl = 'https://repsootd.com/'
 </script>
 
 <style scoped>

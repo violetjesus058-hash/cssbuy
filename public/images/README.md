@@ -1,8 +1,8 @@
-# Usfans Spreadsheet - SEO Product Image Plan
+# CSSBuy - SEO Product Image Plan
 
 ## Overview
 
-This document defines 10 SEO-optimized product images covering 5 core product types, designed for use across 600+ blog articles on usfanslinki.com.
+This document defines 10 SEO-optimized product images covering 5 core product types, designed for use across 600+ blog articles on repsootd.com.
 
 ***
 
@@ -29,7 +29,7 @@ This document defines 10 SEO-optimized product images covering 5 core product ty
 - **File size:** < 200KB per image
 - **Quality:** 85%+ after compression
 - **Loading:** Lazy loading with width/height attributes
-- **EXIF:** Copyright "Usfans Spreadsheet 2026", Author "UsfansLinki"
+- **EXIF:** Copyright "CSSBuy 2026", Author "cssbuyLinki"
 
 ### Naming Convention
 
@@ -64,7 +64,7 @@ A natural lifestyle photograph of a modern American living room with warm natura
 **AI Prompt:**
 
 ```
-A top-down flat lay photograph on a clean white marble surface. A person's hands (young British male, light skin, wearing a simple silver watch) are opening a premium shoe box. Inside, a pristine pair of white and red Jordan 4 sneakers is revealed. Around the box: a folded Usfans Spreadsheet printout, a quality inspection card showing "QC Passed 96%", a small Union Jack sticker, and two shipping label stickers showing "UK Express 5-7 Days" and "EU Standard 7-12 Days". A second shoe box (Adidas Samba) sits partially visible in the corner. Natural overhead lighting, soft shadows. Clean minimalist composition. Photorealistic, no AI artifacts.
+A top-down flat lay photograph on a clean white marble surface. A person's hands (young British male, light skin, wearing a simple silver watch) are opening a premium shoe box. Inside, a pristine pair of white and red Jordan 4 sneakers is revealed. Around the box: a folded CSSBuy printout, a quality inspection card showing "QC Passed 96%", a small Union Jack sticker, and two shipping label stickers showing "UK Express 5-7 Days" and "EU Standard 7-12 Days". A second shoe box (Adidas Samba) sits partially visible in the corner. Natural overhead lighting, soft shadows. Clean minimalist composition. Photorealistic, no AI artifacts.
 ```
 
 **Alt Text:** `Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba`
@@ -100,7 +100,7 @@ A candid street photography style shot in a trendy urban neighborhood in Los Ang
 **AI Prompt:**
 
 ```
-A bright, airy bedroom closet scene with natural sunlight. An open wardrobe shows neatly organized clothing on wooden hangers: several hoodies (grey, black, navy), folded t-shirts stacked on shelves, and jeans arranged by color. A young Australian woman (mid-20s, mixed Asian-Caucasian) stands beside the wardrobe holding up two similar hoodies comparing them, with a printed spreadsheet checklist in her other hand. On a nearby dresser: three neatly folded packages with shipping labels showing "Australia Express 5-8 Days", "US Standard 10-15 Days", and "UK Economy 12-18 Days". A laptop on the bed shows a product comparison page. Warm natural light, clean and organized aesthetic. Photorealistic.
+A bright, airy bedroom closet scene with natural sunlight. An open wardrobe shows neatly organized clothing on wooden hangers: several hoodies (grey, black, navy), folded t-shirts stacked on shelves, and jeans arranged by color. A young Australian woman (mid-20s, mixed Asian-Caucasian) stands beside the wardrobe holding up two similar hoodies comparing them, with a printed CSSBuy checklist in her other hand. On a nearby dresser: three neatly folded packages with shipping labels showing "Australia Express 5-8 Days", "US Standard 10-15 Days", and "UK Economy 12-18 Days". A laptop on the bed shows a product comparison page. Warm natural light, clean and organized aesthetic. Photorealistic.
 ```
 
 **Alt Text:** `Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK`
@@ -118,7 +118,7 @@ A bright, airy bedroom closet scene with natural sunlight. An open wardrobe show
 **AI Prompt:**
 
 ```
-A flat lay photograph on a light grey concrete surface with soft natural window light. Arranged in an organized but casual manner: a Chrome Hearts silver ring, a Cartier-style watch with leather strap, Ray-Ban sunglasses, a minimalist leather wallet, and Apple AirPods case. A young professional's hand (diverse ethnicity, well-groomed) reaches into frame to pick up the watch. In the background, slightly out of focus: a branded shipping envelope with "US Priority 2-3 Days" label and a small package with "International Tracking" sticker. A smartphone shows a spreadsheet app with product listings. Clean composition, natural shadows, photorealistic quality with accurate metal reflections and leather textures.
+A flat lay photograph on a light grey concrete surface with soft natural window light. Arranged in an organized but casual manner: a Chrome Hearts silver ring, a Cartier-style watch with leather strap, Ray-Ban sunglasses, a minimalist leather wallet, and Apple AirPods case. A young professional's hand (diverse ethnicity, well-groomed) reaches into frame to pick up the watch. In the background, slightly out of focus: a branded shipping envelope with "US Priority 2-3 Days" label and a small package with "International Tracking" sticker. A smartphone shows a CSSBuy app with product listings. Clean composition, natural shadows, photorealistic quality with accurate metal reflections and leather textures.
 ```
 
 **Alt Text:** `Daily carry accessories flat lay with Chrome Hearts ring Cartier watch sunglasses and US priority shipping`
@@ -190,7 +190,7 @@ A European city street scene on a crisp morning. A young professional woman (lat
 **AI Prompt:**
 
 ```
-A modern home office desk setup with natural light from a large window. On a clean white desk: the latest iPhone with a premium case, Apple Watch on a charging stand, AirPods Pro in an open case, and a pair of over-ear headphones. A young tech enthusiast (mid-20s, South Asian male) sits at the desk comparing two phones side by side, with a printed spec sheet. On the desk: a small shipping box labeled "US Express 1-2 Days" and another with "International Tracked 5-7 Days". A monitor in the background shows a product comparison spreadsheet. Clean, minimal aesthetic with white and silver tones. Soft natural lighting. Photorealistic with accurate screen reflections and metal finishes.
+A modern home office desk setup with natural light from a large window. On a clean white desk: the latest iPhone with a premium case, Apple Watch on a charging stand, AirPods Pro in an open case, and a pair of over-ear headphones. A young tech enthusiast (mid-20s, South Asian male) sits at the desk comparing two phones side by side, with a printed spec sheet. On the desk: a small shipping box labeled "US Express 1-2 Days" and another with "International Tracked 5-7 Days". A monitor in the background shows a product comparison CSSBuy. Clean, minimal aesthetic with white and silver tones. Soft natural lighting. Photorealistic with accurate screen reflections and metal finishes.
 ```
 
 **Alt Text:** `Tech workspace with iPhone Apple Watch AirPods and headphones, US express and international shipping boxes`

@@ -11,7 +11,7 @@
 
 | 禁止词汇 | 错误示例 | 正确替代 |
 |---------|---------|---------|
-| shopping agent | "Usfans Spreadsheet is a shopping agent" | "product directory" / "product discovery resource" |
+| shopping agent | "CSSBuy is a shopping agent" | "product directory" / "product discovery resource" |
 | buying agent | "your buying agent" | "shopping guide" / "product resource" |
 | purchasing agent | "purchasing agent platform" | "product curation platform" |
 | sourcing agent | "sourcing agent service" | "product information resource" |
@@ -77,7 +77,7 @@
 | order volume | "410+ orders" | （删除此数据） |
 | orders processed | "8,200 orders processed in 2026" | （删除此数据） |
 | purchase on your behalf | "purchases the item on your behalf" | "provides product information and links" |
-| buy directly | "buy directly from the spreadsheet" | "browse products through the spreadsheet" |
+| buy directly | "buy directly from the CSSBuy" | "browse products through the CSSBuy" |
 | transaction | "thousands of successful transactions" | （删除此数据） |
 | refund | "request a replacement or refund" | （删除） |
 | replacement window | "48-72 hours replacement window" | （删除） |
@@ -118,7 +118,7 @@
 | customer support | "24/7 customer support" | （删除） |
 | customer service | "responsive customer service" | （删除） |
 | support team | "contact our support team" | （删除） |
-| support staff | "Usfans Spreadsheet support staff" | （删除） |
+| support staff | "CSSBuy support staff" | （删除） |
 | live chat | "live chat support" | （删除） |
 | response time | "under 2-hour response times" | （删除） |
 | ticket system | "support ticket tracking" | （删除） |

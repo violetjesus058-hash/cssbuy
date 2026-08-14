@@ -1,8 +1,8 @@
 /**
  * Fix remaining dead links:
- * 1. /blog/usfans-spreadsheet/ -> /blog/usfans-spreadsheet-link/
- * 2. /blog//usfans-sizing-tips/ -> /blog/usfans-sizing-tips/
- * 3. /Usfans/blog/usfans-nike.md -> /blog/usfans-nike
+ * 1. /blog/cssbuy-CSSBuy/ -> /blog/cssbuy-CSSBuy-link/
+ * 2. /blog//cssbuy-sizing-tips/ -> /blog/cssbuy-sizing-tips/
+ * 3. /cssbuy/blog/cssbuy-nike.md -> /blog/cssbuy-nike
  */
 
 import fs from 'fs';
@@ -15,9 +15,9 @@ const ROOT = path.resolve(__dirname, '..');
 const BLOG_DIR = path.join(ROOT, 'blog');
 
 const FIXES = [
-  { from: /\/blog\/usfans-spreadsheet\//g, to: '/blog/usfans-spreadsheet-link/' },
+  { from: /\/blog\/cssbuy-CSSBuy\//g, to: '/blog/cssbuy-CSSBuy-link/' },
   { from: /\/blog\/\//g, to: '/blog/' },
-  { from: /\/Usfans\/blog\/usfans-nike\.md/g, to: '/blog/usfans-nike' },
+  { from: /\/cssbuy\/blog\/cssbuy-nike\.md/g, to: '/blog/cssbuy-nike' },
 ];
 
 function processDir(dir) {

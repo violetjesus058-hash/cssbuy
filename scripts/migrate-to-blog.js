@@ -1,6 +1,6 @@
 /**
  * Migration script: Move content pages to /blog/ directory
- * - Move Usfans-*.md + about.md + platform.md to blog/
+ * - Move cssbuy-*.md + about.md + platform.md to blog/
  * - Rename files to lowercase
  * - Update internal links in all .md and .vue files
  * - Generate _redirects for 301 redirects
@@ -26,9 +26,9 @@ const FILES_TO_MIGRATE = [
 function moveFiles() {
   console.log('=== Step 1: Moving files to blog/ ===');
 
-  // Get all Usfans-*.md files from root
+  // Get all cssbuy-*.md files from root
   const rootFiles = fs.readdirSync(ROOT).filter(f =>
-    f.startsWith('Usfans-') && f.endsWith('.md')
+    f.startsWith('cssbuy-') && f.endsWith('.md')
   );
 
   const allFiles = [...rootFiles, ...FILES_TO_MIGRATE];
@@ -97,8 +97,8 @@ function updateMdLinks(movedFiles) {
     let changed = false;
 
     for (const { old, new: newUrl } of movedFiles) {
-      // Replace /Usfans-xxx/ -> /blog/usfans-xxx/
-      // Also handle /Usfans-xxx (without trailing slash)
+      // Replace /cssbuy-xxx/ -> /blog/cssbuy-xxx/
+      // Also handle /cssbuy-xxx (without trailing slash)
       const oldWithoutSlash = old.replace(/\/$/, '');
 
       // Replace with trailing slash version
@@ -114,10 +114,10 @@ function updateMdLinks(movedFiles) {
       }
     }
 
-    // Also handle any /Usfans-xxx patterns that might use different casing
-    // Match /Usfans- followed by word chars
-    const usfansPattern = /\/Usfans-([a-zA-Z0-9-]+)/g;
-    const matches = content.match(usfansPattern);
+    // Also handle any /cssbuy-xxx patterns that might use different casing
+    // Match /cssbuy- followed by word chars
+    const cssbuyPattern = /\/cssbuy-([a-zA-Z0-9-]+)/g;
+    const matches = content.match(cssbuyPattern);
     if (matches) {
       for (const match of matches) {
         const lowerMatch = '/blog/' + match.toLowerCase();
@@ -165,9 +165,9 @@ function updateVueLinks(movedFiles) {
       }
     }
 
-    // Handle /Usfans-xxx pattern in vue files
-    const usfansPattern = /\/Usfans-([a-zA-Z0-9-]+)/g;
-    const matches = content.match(usfansPattern);
+    // Handle /cssbuy-xxx pattern in vue files
+    const cssbuyPattern = /\/cssbuy-([a-zA-Z0-9-]+)/g;
+    const matches = content.match(cssbuyPattern);
     if (matches) {
       for (const match of matches) {
         const lowerMatch = '/blog/' + match.toLowerCase();
@@ -210,7 +210,7 @@ function updateConfig(movedFiles) {
   // Update ignoreDeadLinks to include /blog/ paths
   if (content.includes('ignoreDeadLinks')) {
     // Add /blog/ patterns if not already present
-    if (!content.includes('/blog/Usfans-') && !content.includes('/blog/usfans-')) {
+    if (!content.includes('/blog/cssbuy-') && !content.includes('/blog/cssbuy-')) {
       content = content.replace(
         /ignoreDeadLinks:\s*\[/,
         "ignoreDeadLinks: [\n    /^\\/blog\\//,"
@@ -249,7 +249,7 @@ function generateRobotsTxt() {
   const content = `User-agent: *
 Allow: /
 
-Sitemap: https://usfanslinki.com/sitemap.xml
+Sitemap: https://repsootd.com/sitemap.xml
 `;
 
   fs.writeFileSync(robotsPath, content, 'utf-8');

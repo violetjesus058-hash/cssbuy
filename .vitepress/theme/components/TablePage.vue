@@ -59,7 +59,7 @@
 
     <!-- Table Note -->
     <div class="table-note">
-      <p><strong>Note:</strong> This table is a sample structure. Replace the data in the script section with your actual product information. Prices and availability are subject to change. Always refer to the spreadsheet for the latest data.</p>
+      <p><strong>Note:</strong> This table is a sample structure. Replace the data in the script section with your actual product information. Prices and availability are subject to change. Always refer to the CSSBuy for the latest data.</p>
     </div>
 
     <!-- FAQ -->

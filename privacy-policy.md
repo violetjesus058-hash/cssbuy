@@ -1,6 +1,6 @@
 ---
-title: 'Privacy Policy: A 2026 Decision Path for Usfans Spreadsheet'
-description: Explore Privacy Policy through a focused 2026 buying guide decision path for Usfans Spreadsheet, with page-specific review cues and practical next.
+title: 'Privacy Policy: A 2026 Decision Path for CSSBuy'
+description: Explore Privacy Policy through a focused 2026 buying guide decision path for CSSBuy, with page-specific review cues and practical next.
 category: Buying Guide
 tags:
 - Privacy Policy
@@ -14,15 +14,15 @@ updated: '2026-08-14T00:00:00Z'
 
 **Effective Date:** August 2, 2026
 
-Welcome to UsfansLinki. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information when you visit our website at [https://usfanslinki.com/](https://usfanslinki.com/).
+Welcome to cssbuyLinki. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information when you visit our website at [https://repsootd.com/](https://repsootd.com/).
 
 ## 1. Nature of Our Service & Disclaimer
 
-**Information & Linking Platform Only:** UsfansLinki is an independent affiliate and product indexing platform. We provide product recommendations and direct links to third-party shopping agents (such as KakoBuy).
+**Information & Linking Platform Only:** cssbuyLinki is an independent affiliate and product indexing platform. We provide product recommendations and direct links to third-party shopping agents (such as cssbuy).
 
 **No Direct Sales or Inventory:** We do NOT directly sell products, handle inventory, process payments, or manage international shipping.
 
-**No Guarantees:** We cannot guarantee product quality, sizing, authenticity, seller credibility, or logistics timelines. All transactions, purchasing decisions, and shipping arrangements occur entirely on the third-party platform (e.g., KakoBuy) according to their terms and policies.
+**No Guarantees:** We cannot guarantee product quality, sizing, authenticity, seller credibility, or logistics timelines. All transactions, purchasing decisions, and shipping arrangements occur entirely on the third-party platform (e.g., cssbuy) according to their terms and policies.
 
 ## 2. Information We Collect
 
@@ -38,11 +38,11 @@ We use cookies and similar tracking technologies to analyze website traffic, und
 
 ## 4. Third-Party Links & External Platforms
 
-Our website contains affiliate or referral links to third-party websites (including purchasing agent platforms like KakoBuy).
+Our website contains affiliate or referral links to third-party websites (including purchasing agent platforms like cssbuy).
 
 - When you click on these links and leave our site, you will be redirected to external platforms.
 - We are not responsible for the privacy practices, terms, or content of these third-party websites.
-- We strongly encourage you to review the Privacy Policy and Terms of Service of any third-party platform (such as KakoBuy) before registering an account or making a purchase.
+- We strongly encourage you to review the Privacy Policy and Terms of Service of any third-party platform (such as cssbuy) before registering an account or making a purchase.
 
 ## 5. How We Protect Your Information
 
@@ -62,7 +62,7 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ---
 
-If you have any questions about this Privacy Policy, please contact us at [https://usfanslinki.com/](https://usfanslinki.com/).
+If you have any questions about this Privacy Policy, please contact us at [https://repsootd.com/](https://repsootd.com/).
 
 ## Privacy Policy: Reader note
 
@@ -84,4 +84,4 @@ For Privacy Policy, apply stable criteria to every Privacy Policy candidate. Com
 
 ## Privacy Policy: Decide deliberately
 
-For Privacy Policy, return to the original purpose before selecting a Privacy Policy option. Choose Privacy Policy only when its remaining trade-offs are clear. Revisit Privacy Policy when new evidence changes a relevant condition. This Privacy Policy method gives Usfans Spreadsheet readers a specific and repeatable review path.
+For Privacy Policy, return to the original purpose before selecting a Privacy Policy option. Choose Privacy Policy only when its remaining trade-offs are clear. Revisit Privacy Policy when new evidence changes a relevant condition. This Privacy Policy method gives CSSBuy readers a specific and repeatable review path.

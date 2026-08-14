@@ -107,8 +107,8 @@ categories = {
         "patterns": ["cheap", "cheapest", "budget", "low price", "best", "the best", "ultimate", "free"],
         "keywords": []
     },
-    "Spreadsheet/Platform": {
-        "patterns": ["spreadsheet", "google sheets", "google docs", "excel", "link", "linktree", "docs", "site", "org", "com", "website", "finder", "findindex", "list", "hub", "archive"],
+    "Platform/Shopping": {
+        "patterns": ["shopping", "catalog", "product", "link", "linktree", "docs", "site", "org", "com", "website", "finder", "findindex", "list", "hub", "archive"],
         "keywords": []
     },
     "Community/Social": {

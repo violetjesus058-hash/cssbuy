@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://usfanslinki.com/sitemap.xml
+Sitemap: https://repsootd.com/sitemap.xml

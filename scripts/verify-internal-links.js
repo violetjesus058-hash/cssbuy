@@ -53,7 +53,7 @@ function extractInternalLinks(filePath) {
   let match;
   while ((match = mdRegex.exec(content)) !== null) {
     const url = match[2];
-    if (url.startsWith('/') && !url.startsWith('//') && !url.includes('docs.google.com') && !url.includes('repsootd.com')) {
+    if (url.startsWith('/') && !url.startsWith('//') && !url.includes('repsootd.com') && !url.includes('repsootd.com')) {
       links.push({ url, line: content.substring(0, match.index).split('\n').length });
     }
   }
@@ -121,10 +121,10 @@ function main() {
   const sitemapPath = path.join(DIST_DIR, 'sitemap.xml');
   if (fs.existsSync(sitemapPath)) {
     const sitemap = fs.readFileSync(sitemapPath, 'utf-8');
-    const urlRegex = /<loc>(https:\/\/usfanslinki\.com\/[^<]+)<\/loc>/g;
+    const urlRegex = /<loc>(https:\/\/repsootd\.com\/[^<]+)<\/loc>/g;
     let sitemapMatch;
     while ((sitemapMatch = urlRegex.exec(sitemap)) !== null) {
-      const urlPath = '/' + sitemapMatch[1].replace('https://usfanslinki.com', '');
+      const urlPath = '/' + sitemapMatch[1].replace('https://repsootd.com', '');
       if (!validPages.has(urlPath) && !validPages.has(urlPath.replace(/\/$/, ''))) {
         // Don't count as error, just note
       }

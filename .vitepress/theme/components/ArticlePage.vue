@@ -6,15 +6,15 @@
         <h1>{{ frontmatter.title || 'Article Title' }}</h1>
         <div class="article-actions" role="group" aria-label="Article actions">
           <component
-            :is="spreadsheetLinked ? 'a' : 'span'"
-            :href="spreadsheetLinked ? spreadsheetUrl : undefined"
-            :target="spreadsheetLinked ? '_blank' : undefined"
-            :rel="spreadsheetLinked ? 'nofollow noopener noreferrer' : undefined"
-            :aria-disabled="spreadsheetLinked ? undefined : 'true'"
+            :is="CSSBuyLinked ? 'a' : 'span'"
+            :href="CSSBuyLinked ? CSSBuyUrl : undefined"
+            :target="CSSBuyLinked ? '_blank' : undefined"
+            :rel="CSSBuyLinked ? 'nofollow noopener noreferrer' : undefined"
+            :aria-disabled="CSSBuyLinked ? undefined : 'true'"
             class="article-action article-action-primary"
-            :class="{ 'is-unlinked': !spreadsheetLinked }"
+            :class="{ 'is-unlinked': !CSSBuyLinked }"
           >
-            Access UsFans spreadsheet
+            Access CSSBuy
           </component>
           <component
             :is="shoppingLinked ? 'a' : 'span'"
@@ -89,7 +89,7 @@
         <div class="article-cta">
           <h2>Ready to explore?</h2>
           <p>Check out our curated collections and find your next favorite product.</p>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="cta-button">Browse Products</a>
+          <a :href="CSSBuyUrl" target="_blank" rel="nofollow" class="cta-button">Browse Products</a>
         </div>
       </div>
     </section>
@@ -101,11 +101,11 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
+const CSSBuyUrl = 'https://repsootd.com/'
 const shoppingUrl = 'https://repsootd.com/'
 
 /* Set either field to false in an article's frontmatter to render that control without a link. */
-const spreadsheetLinked = computed(() => frontmatter.value.spreadsheetLink !== false)
+const CSSBuyLinked = computed(() => frontmatter.value.CSSBuyLink !== false)
 const shoppingLinked = computed(() => frontmatter.value.shoppingLink !== false)
 </script>
 

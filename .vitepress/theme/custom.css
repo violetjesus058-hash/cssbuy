@@ -55,12 +55,12 @@ body { color: #111; background: #fff; }
 .vp-doc th { color: #111; background: #f7f7f5; }
 .vp-doc th, .vp-doc td { border-color: #e8e8e8; }
 
-/* Spreadsheet calls-to-action remain prominent on article and category pages. */
-.vp-doc h1 + p:has(a[href*="docs.google.com/spreadsheets"]),
-.vp-doc h1 + p:has(a[href*="spreadsheet"]) { text-align: left; margin: 26px 0 32px; }
-.vp-doc h1 + p a[href*="docs.google.com/spreadsheets"],
-.vp-doc h1 + p a[href*="spreadsheet"],
-.spreadsheet-cta a:not(.shopping-btn) {
+/* CSSBuy calls-to-action remain prominent on article and category pages. */
+.vp-doc h1 + p:has(a[href*="repsootd.com"]),
+.vp-doc h1 + p:has(a[href*="CSSBuy"]) { text-align: left; margin: 26px 0 32px; }
+.vp-doc h1 + p a[href*="repsootd.com"],
+.vp-doc h1 + p a[href*="CSSBuy"],
+.CSSBuy-cta a:not(.shopping-btn) {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -74,9 +74,9 @@ body { color: #111; background: #fff; }
   text-decoration: none !important;
   transition: transform .18s ease, background .18s ease;
 }
-.vp-doc h1 + p a[href*="docs.google.com/spreadsheets"]:hover,
-.vp-doc h1 + p a[href*="spreadsheet"]:hover,
-.spreadsheet-cta a:not(.shopping-btn):hover { background: #5b5ce2; transform: translateY(-2px); }
+.vp-doc h1 + p a[href*="repsootd.com"]:hover,
+.vp-doc h1 + p a[href*="CSSBuy"]:hover,
+.CSSBuy-cta a:not(.shopping-btn):hover { background: #5b5ce2; transform: translateY(-2px); }
 .shopping-btn {
   display: inline-flex !important;
   align-items: center;
@@ -97,14 +97,14 @@ body { color: #111; background: #fff; }
 
 @media (max-width: 800px) {
   .VPSidebar { top: 64px !important; }
-  .vp-doc h1 + p:has(a[href*="docs.google.com/spreadsheets"]),
-  .vp-doc h1 + p:has(a[href*="spreadsheet"]) { text-align: center; }
+  .vp-doc h1 + p:has(a[href*="repsootd.com"]),
+  .vp-doc h1 + p:has(a[href*="CSSBuy"]) { text-align: center; }
 }
 @media (max-width: 560px) {
   .shopping-btn { display: flex !important; width: 100%; margin: 10px 0 0; }
 }
 
-/* Usfans editorial reading system: calm, structured and easy to scan. */
+/* cssbuy editorial reading system: calm, structured and easy to scan. */
 .vp-doc {
   color: #303033;
   font-size: 16.5px;

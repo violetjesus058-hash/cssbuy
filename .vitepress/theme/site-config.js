@@ -1,18 +1,18 @@
 // ============================================================
-// Usfans Spreadsheet Site Configuration
-// Usfanslinki.com - Fashion Finds Resource & Buying Guide
+// CSSBuy Site Configuration
+// repsootd.com - Fashion Finds Resource & Buying Guide
 // ============================================================
 
 export const siteConfig = {
 
   // ---- Brand ----
   brand: {
-    name: 'Usfans Spreadsheet',
+    name: 'CSSBuy',
     tagline: 'Fashion Finds Resource & Buying Guide',
-    description: 'Independent resource for Usfans Spreadsheet shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
+    description: 'Independent resource for CSSBuy shoppers. Product guides, category breakdowns, sizing tips, and CSSBuy access — organized in one place.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
-    logoText: 'Usfans Spreadsheet',
+    logoText: 'CSSBuy',
   },
 
   // ---- Navigation ----
@@ -31,50 +31,50 @@ export const siteConfig = {
   categories: [
     {
       id: 'clothes',
-      name: 'USFans Clothing Spreadsheet',
+      name: 'CSSBuy Clothing',
       icon: '',
       description: 'Hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides with direct article paths.',
-      blogLink: '/blog/usfans-hoodies/',
+      blogLink: '/blog/cssbuy-hoodies/',
       landingLink: '/clothes',
     },
     {
       id: 'shoes',
-      name: 'USFans Shoes Spreadsheet',
+      name: 'CSSBuy Shoes',
       icon: '',
       description: 'Sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots.',
-      blogLink: '/blog/usfans-sneakers/',
+      blogLink: '/blog/cssbuy-sneakers/',
       landingLink: '/shoes',
     },
     {
       id: 'pants',
-      name: 'USFans Pants Spreadsheet',
+      name: 'CSSBuy Pants',
       icon: '',
       description: 'Jeans, pants, shorts, sweatpants and tracksuits with fit and fabric reading paths.',
-      blogLink: '/blog/usfans-pants/',
+      blogLink: '/blog/cssbuy-pants/',
       landingLink: '/pants',
     },
     {
       id: 'hats',
-      name: 'USFans Hats Spreadsheet',
+      name: 'CSSBuy Hats',
       icon: '',
       description: 'Hats, caps, beanies, bucket hats and fit guides for everyday finishing pieces.',
-      blogLink: '/blog/usfans-hats/',
+      blogLink: '/blog/cssbuy-hats/',
       landingLink: '/hats',
     },
     {
       id: 'accessories',
-      name: 'USFans Accessories Spreadsheet',
+      name: 'CSSBuy Accessories',
       icon: '',
       description: 'Bags, belts, jewelry, sunglasses, watches and wallets with direct article paths.',
-      blogLink: '/blog/usfans-accessories/',
+      blogLink: '/blog/cssbuy-accessories/',
       landingLink: '/accessories',
     },
     {
       id: 'electronics',
-      name: 'USFans Electronics Spreadsheet',
+      name: 'CSSBuy Electronics',
       icon: '',
       description: 'Electronics, phones, iPhone resources, AirPods and tech gadget guides.',
-      blogLink: '/blog/usfans-electronics/',
+      blogLink: '/blog/cssbuy-electronics/',
       landingLink: '/electronics',
     },
   ],
@@ -97,19 +97,18 @@ export const siteConfig = {
 
   // ---- External Links ----
   links: {
-    spreadsheet: 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270',
-    contact: 'mailto:hello@usfanslinki.com',
+    shopping: 'https://repsootd.com/',
   },
 
   // ---- SEO Defaults ----
   seo: {
-    hostname: 'https://usfanslinki.com',
-    title: 'USFans Spreadsheet 2026 - USFans Finds, Category Guides and Product Research',
-    description: 'Explore USFans Spreadsheet 2026 through organized USFans finds, category overviews, focused guides and direct spreadsheet access.',
-    keywords: ['usfans spreadsheet 2026', 'usfans spreadsheet', 'usfans finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
+    hostname: 'https://repsootd.com',
+    title: 'CSSBuy 2026 - CSSBuy product finds, Category Guides and Product Research',
+    description: 'Explore CSSBuy 2026 through organized CSSBuy product finds, category overviews, focused guides and direct CSSBuy access.',
+    keywords: ['CSSBuy 2026', 'CSSBuy', 'CSSBuy product finds', 'clothing CSSBuy', 'shoes CSSBuy', 'pants CSSBuy', 'hats CSSBuy', 'accessories CSSBuy', 'electronics CSSBuy'],
     ga4: 'G-9WJTE8DY0P',
   },
 
   // ---- Announcement Bar ----
-  announcement: 'Product guides and spreadsheet updated regularly. Browse by category below.',
+  announcement: 'Product guides and CSSBuy updated regularly. Browse by category below.',
 }
