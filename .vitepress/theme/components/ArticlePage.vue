@@ -9,7 +9,7 @@
             :is="shoppingLinked ? 'a' : 'span'"
             :href="shoppingLinked ? shoppingUrl : undefined"
             :target="shoppingLinked ? '_blank' : undefined"
-            :rel="shoppingLinked ? 'nofollow noopener noreferrer' : undefined"
+            :rel="shoppingLinked ? 'nofollow sponsored noopener noreferrer' : undefined"
             :aria-disabled="shoppingLinked ? undefined : 'true'"
             class="article-action article-action-secondary"
             :class="{ 'is-unlinked': !shoppingLinked }"
@@ -78,7 +78,7 @@
         <div class="article-cta">
           <h2>Ready to explore?</h2>
           <p>Check out our curated collections and find your next favorite product.</p>
-          <a :href="CSSBuyUrl" target="_blank" rel="nofollow" class="cta-button">Browse Products</a>
+          <a :href="CSSBuyUrl" target="_blank" rel="nofollow sponsored noopener noreferrer" class="cta-button">Browse Products</a>
         </div>
       </div>
     </section>

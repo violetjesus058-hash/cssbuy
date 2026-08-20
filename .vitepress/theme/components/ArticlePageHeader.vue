@@ -6,7 +6,7 @@
         :is="shoppingLinked ? 'a' : 'span'"
         :href="shoppingLinked ? shoppingUrl : undefined"
         :target="shoppingLinked ? '_blank' : undefined"
-        :rel="shoppingLinked ? 'nofollow noopener noreferrer' : undefined"
+        :rel="shoppingLinked ? 'nofollow sponsored noopener noreferrer' : undefined"
         :aria-disabled="shoppingLinked ? undefined : 'true'"
         class="article-action article-action-secondary"
         :class="{ 'is-unlinked': !shoppingLinked }"

@@ -9,7 +9,7 @@
           verified product research, sizing tips and a direct path to the latest collections.
         </p>
         <div class="hero-actions">
-          <a :href="shoppingUrl" target="_blank" rel="nofollow" class="button button-secondary cta-shopping">
+          <a :href="shoppingUrl" target="_blank" rel="nofollow sponsored noopener noreferrer" class="button button-secondary cta-shopping">
             Start shopping
           </a>
         </div>
@@ -86,7 +86,7 @@
             The site is designed around practical navigation, clear detail pages and a catalog that is easy to
             return to whenever you need it.
           </p>
-          <a :href="links.shopping" target="_blank" rel="nofollow" class="text-link cta-CSSBuy">
+          <a :href="links.shopping" target="_blank" rel="nofollow sponsored noopener noreferrer" class="text-link cta-CSSBuy">
             Open the full catalog <span aria-hidden="true">→</span>
           </a>
         </div>

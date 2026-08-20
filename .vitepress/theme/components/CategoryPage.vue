@@ -48,7 +48,7 @@
             :key="collection.title"
             :href="collection.link || CSSBuyUrl"
             :target="collection.link ? undefined : '_blank'"
-            :rel="collection.link ? undefined : 'nofollow noopener noreferrer'"
+            :rel="collection.link ? undefined : 'nofollow sponsored noopener noreferrer'"
             class="collection-card"
           >
             <h3>{{ collection.title }}</h3>
@@ -87,7 +87,7 @@
       <div class="container">
         <h2>Recommended Platforms</h2>
         <div class="platforms-grid">
-          <a v-for="platform in frontmatter.platforms" :key="platform.name" :href="platform.url" target="_blank" rel="nofollow" class="platform-card">
+          <a v-for="platform in frontmatter.platforms" :key="platform.name" :href="platform.url" target="_blank" rel="nofollow sponsored noopener noreferrer" class="platform-card">
             <h3>{{ platform.name }}</h3>
             <p>{{ platform.description }}</p>
           </a>

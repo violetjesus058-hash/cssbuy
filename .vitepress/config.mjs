@@ -79,6 +79,19 @@ export default defineConfig({
   cleanUrls: 'with-subfolders',
 
   // Generate canonical URLs for each page
+  transformHtml(code) {
+    return code.replace(/<a\b([^>]*\bhref=["']https:\/\/repsootd\.com\/?["'][^>]*)>/gi, (full, attrs) => {
+      const relMatch = attrs.match(/\brel=["']([^"']*)["']/i)
+      const relTokens = new Set((relMatch ? relMatch[1] : '').split(/\s+/).filter(Boolean))
+      ;['nofollow', 'sponsored', 'noopener', 'noreferrer'].forEach((token) => relTokens.add(token))
+      const relValue = `rel="${Array.from(relTokens).join(' ')}"`
+      const nextAttrs = relMatch
+        ? attrs.replace(relMatch[0], relValue)
+        : `${attrs} ${relValue}`
+      return `<a${nextAttrs}>`
+    })
+  },
+
   transformPageData(pageData) {
     const canonicalUrl = `${seo.hostname}/${pageData.relativePath.replace(/\.md$/, '').replace(/index$/, '')}`
     pageData.frontmatter.head = pageData.frontmatter.head || []
