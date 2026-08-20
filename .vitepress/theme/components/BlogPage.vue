@@ -12,7 +12,7 @@
           <div class="featured-heading">
             <div>
               <p class="featured-kicker">Start here</p>
-              <h2 id="featured-title" class="featured-title">Recommended for Brazilian Shoppers</h2>
+              <h2 id="featured-title" class="featured-title">Recommended High-Traffic Articles</h2>
               <p class="featured-desc">A practical reading path for registration, first orders, shipping, payments, quality checks, and savings.</p>
             </div>
           </div>
