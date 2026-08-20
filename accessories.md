@@ -15,16 +15,16 @@ editorNotes:
 collections:
 - title: Belts and Wallets
   description: Compare belts, wallets and card holders through listed material, stitching, edge finishing and hardware details.
-  link: /blog/cssbuy-belt/
+  link: /blog/cssbuy-belt-2026-complete-guide-to-affordable-style-essentials/
 - title: Sunglasses and Eyewear
   description: Compare frame styles, listed lens information, visible alignment and hinge condition; verify protection claims with the source.
-  link: /blog/cssbuy-sunglasses/
+  link: /blog/cssbuy-sunglasses-2026-complete-guide-to-verified-eyewear/
 - title: Jewelry and Watches Accessories
   description: Compare rings, necklaces, bracelets and watch bands through listed materials, clasp construction and visible finish consistency.
-  link: /blog/cssbuy-watches/
+  link: /blog/cssbuy-watch-2026-complete-guide-to-affordable-luxury-timepieces/
 - title: Scarves, Ties and Small Accessories
   description: Silk scarves, cotton ties, pocket squares, socks. Examine fabric weight, pattern alignment, edge finishing, and material composition.
-  link: /blog/cssbuy-accessories-guide/
+  link: /blog/cssbuy-accessories-guide-2026-complete-buyers-handbook-for-verified-add-ons/
 brands:
 - Leather Goods
 - Fine Jewelry
@@ -43,13 +43,13 @@ faq:
   answer: 'Begin with the colors, proportions and use cases already present in your wardrobe. Compare a small number of accessory options, then decide whether a neutral or statement detail better serves the look you want to build.'
 relatedArticles:
 - title: CSSBuy Accessories Guide — Belts, Wallets, Sunglasses & Jewelry
-  link: /blog/cssbuy-accessories/
+  link: /blog/cssbuy-accessories-2026-complete-guide-to-hats-jewelry-and-more/
   desc: A focused overview of accessory research paths on CSSBuy
 - title: CSSBuy QC Photos — How to Check Product Quality
-  link: /blog/cssbuy-qc-photos/
+  link: /blog/cssbuy-qc-2026-quality-control-data-for-confident-international-shopping/
   desc: Use photographs to compare visible accessory details and identify questions for the source
 - title: CSSBuy Legit Check — Authentication Guide
-  link: /blog/cssbuy-legit-check/
+  link: /blog/cssbuy-legit-2026-verifying-authenticity-and-quality-in-international-shopping/
   desc: A guide to documenting visible details and checking source information
 category: Buying Guide
 tags:

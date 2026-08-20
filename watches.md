@@ -38,13 +38,13 @@ faq:
   answer: 'Check rating specifications: 30m means splash resistant only, 100m suitable for swimming, 200m+ for diving. Verify crown is screw-down for higher ratings. Check case back gasket visibility in photos. Note that water resistance decreases over time and requires maintenance.'
 relatedArticles:
 - title: CSSBuy Watches Guide — Movement Types and Case Materials
-  link: /blog/cssbuy-watches/
+  link: /blog/cssbuy-watch-2026-complete-guide-to-affordable-luxury-timepieces/
   desc: Complete guide to watch movements and materials
 - title: CSSBuy QC Photos — How to Inspect Watch Quality
-  link: /blog/cssbuy-qc-photos/
+  link: /blog/cssbuy-qc-2026-quality-control-data-for-confident-international-shopping/
   desc: Learn to check watch details in quality photos
 - title: CSSBuy Legit Check — Verifying Watch Authenticity
-  link: /blog/cssbuy-legit-check/
+  link: /blog/cssbuy-legit-2026-verifying-authenticity-and-quality-in-international-shopping/
   desc: Authentication markers for luxury-inspired watches
 category: Accessories
 tags:

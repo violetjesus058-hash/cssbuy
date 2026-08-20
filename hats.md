@@ -22,31 +22,31 @@ const productTypes = [
     icon: '🧢',
     name: 'Snapback Caps',
     desc: 'Adjustable flat-brim caps with plastic snap closure. Structured crown maintains shape. Popular in streetwear for bold graphics and logos. One size fits most with 7-position snap adjustment.',
-    link: '/blog/cssbuy-caps/'
+    link: '/blog/cssbuy-caps-2026-complete-guide-to-verified-baseball-caps-and-headwear'
   },
   {
     icon: '',
     name: 'Beanies',
     desc: 'Knit caps made from acrylic, wool, or cotton blends. Ribbed construction provides stretch and warmth. Available in cuffed (12-15cm height), slouchy, and fisherman styles. Essential for cold weather layering.',
-    link: '/blog/cssbuy-hats/'
+    link: '/blog/cssbuy-hats-2026-complete-guide-to-verified-headwear-collection'
   },
   {
     icon: '👒',
     name: 'Bucket Hats',
     desc: 'Wide-brimmed hats (5-8cm brim) for sun protection. Made from cotton twill, nylon, or denim. Packable designs for travel. Popular in 90s revival and outdoor aesthetics.',
-    link: '/blog/cssbuy-hats-guide/'
+    link: '/blog/cssbuy-hats-2026-complete-guide-to-verified-headwear-collection'
   },
   {
     icon: '',
     name: 'Dad Hats',
     desc: 'Unstructured 6-panel caps with curved brim (7-8cm). Low profile fits closer to head. Adjustable strap (metal buckle or velcro). Relaxed, vintage look that works with casual outfits.',
-    link: '/blog/cssbuy-caps/'
+    link: '/blog/cssbuy-caps-2026-complete-guide-to-verified-baseball-caps-and-headwear'
   },
   {
     icon: '',
     name: 'Fitted Caps',
     desc: 'Structured caps with fixed sizing (measured in inches, e.g., 7 1/4). No adjustable strap for clean silhouette. Premium construction with embroidered logos. Requires accurate head measurement.',
-    link: '/blog/cssbuy-hats-guide/'
+    link: '/blog/cssbuy-hats-2026-complete-guide-to-verified-headwear-collection'
   },
 ]
 
@@ -367,11 +367,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these hat-specific resources:
 
-- [cssbuy Hats Guide](/blog/cssbuy-hats/) — Hat styles, brand comparisons, and quality checks for 2026
-- [cssbuy Streetwear Guide](/blog/cssbuy-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
-- [cssbuy Accessories Guide](/blog/cssbuy-accessories/) — Complete accessories overview including hats, belts, and more
-- [cssbuy QC Photos](/blog/cssbuy-qc-photos/) — How to inspect hat quality using pre-shipment photos
-- [cssbuy Legit Check](/blog/cssbuy-legit-check/) — Authentication markers for branded headwear
+- [cssbuy Hats Guide](/blog/cssbuy-hats-2026-complete-guide-to-verified-headwear-collection/) — Hat styles, brand comparisons, and quality checks for 2026
+- [cssbuy Streetwear Guide](/blog/cssbuy-streetwear-2026-ultimate-street-style-collection/) — Streetwear brands, styling tips, and how hats complete the look
+- [cssbuy Accessories Guide](/blog/cssbuy-accessories-2026-complete-guide-to-hats-jewelry-and-more/) — Complete accessories overview including hats, belts, and more
+- [cssbuy QC Photos](/blog/cssbuy-qc-2026-quality-control-data-for-confident-international-shopping/) — How to inspect hat quality using pre-shipment photos
+- [cssbuy Legit Check](/blog/cssbuy-legit-2026-verifying-authenticity-and-quality-in-international-shopping/) — Authentication markers for branded headwear
 
 ## Explore More Categories
 

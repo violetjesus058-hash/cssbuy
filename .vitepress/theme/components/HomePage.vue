@@ -142,21 +142,21 @@ const { links } = siteConfig
 const shoppingUrl = 'https://repsootd.com/'
 
 const categoryCards = computed(() => [
-  { id: 'sneakers', name: 'Sneakers', description: 'Dedicated guide to sneaker styles and product discovery.', link: '/blog/cssbuy-sneakers/', icon: '👟' },
-  { id: 'shoes', name: 'Shoes', description: 'Browse footwear options beyond the main sneaker collection.', link: '/blog/cssbuy-shoes/', icon: '👞' },
-  { id: 'hoodies', name: 'Hoodies', description: 'Explore hoodies, layers and casual everyday essentials.', link: '/blog/cssbuy-hoodie/', icon: '🧥' },
-  { id: 't-shirts', name: 'T-Shirts', description: 'Find staple tees and graphic shirt discovery resources.', link: '/blog/cssbuy-t-shirt/', icon: '👕' },
-  { id: 'jackets', name: 'Jackets', description: 'Discover jackets and outerwear guides by style.', link: '/blog/cssbuy-jacket/', icon: '🧤' },
-  { id: 'jeans', name: 'Jeans', description: 'Browse denim and jeans-focused product guidance.', link: '/blog/cssbuy-jeans/', icon: '👖' },
-  { id: 'pants', name: 'Pants', description: 'Explore trousers, sweatpants and everyday bottoms.', link: '/blog/cssbuy-pants/', icon: '🩳' },
-  { id: 'shorts', name: 'Shorts', description: 'Find shorts for casual and warm-weather outfits.', link: '/blog/cssbuy-shorts/', icon: '🩳' },
-  { id: 'tracksuits', name: 'Tracksuits', description: 'Browse coordinated tracksuits and sport-inspired looks.', link: '/blog/cssbuy-tracksuit/', icon: '🏃' },
-  { id: 'dresses', name: 'Dresses', description: 'Explore dress styles and clothing discovery options.', link: '/blog/cssbuy-dress/', icon: '👗' },
-  { id: 'hats', name: 'Hats & Caps', description: 'Find caps, hats and finishing pieces for your outfit.', link: '/blog/cssbuy-hats/', icon: '🧢' },
-  { id: 'bags', name: 'Bags', description: 'Browse bag guides across everyday and statement styles.', link: '/blog/cssbuy-bags/', icon: '👜' },
-  { id: 'accessories', name: 'Accessories', description: 'Explore belts, small goods and complementary details.', link: '/blog/cssbuy-accessories/', icon: '✨' },
-  { id: 'watches', name: 'Watches', description: 'Discover watch guides and wearable accessory options.', link: '/blog/cssbuy-watches/', icon: '⌚' },
-  { id: 'sunglasses', name: 'Sunglasses', description: 'Browse eyewear and sunglasses discovery resources.', link: '/blog/cssbuy-sunglasses/', icon: '🕶️' }
+  { id: 'sneakers', name: 'Sneakers', description: 'Dedicated guide to sneaker styles and product discovery.', link: '/blog/cssbuy-sneakers-2026-complete-guide-to-verified-footwear', icon: '👟' },
+  { id: 'shoes', name: 'Shoes', description: 'Browse footwear options beyond the main sneaker collection.', link: '/blog/cssbuy-shoes-2026-complete-collection-of-verified-footwear', icon: '👞' },
+  { id: 'hoodies', name: 'Hoodies', description: 'Explore hoodies, layers and casual everyday essentials.', link: '/blog/cssbuy-hoodie-2026-verified-streetwear-and-designer-hoodie-collection', icon: '🧥' },
+  { id: 't-shirts', name: 'T-Shirts', description: 'Find staple tees and graphic shirt discovery resources.', link: '/blog/cssbuy-t-shirt-2026-verified-streetwear-and-designer-t-shirt-collection', icon: '👕' },
+  { id: 'jackets', name: 'Jackets', description: 'Discover jackets and outerwear guides by style.', link: '/blog/cssbuy-jacket-2026-complete-guide-to-outerwear-and-layering-pieces', icon: '🧤' },
+  { id: 'jeans', name: 'Jeans', description: 'Browse denim and jeans-focused product guidance.', link: '/blog/cssbuy-jeans-2026-complete-guide-to-denim-and-work-pants', icon: '👖' },
+  { id: 'pants', name: 'Pants', description: 'Explore trousers, sweatpants and everyday bottoms.', link: '/blog/cssbuy-pants-2026-complete-guide-to-all-styles-and-brands', icon: '🩳' },
+  { id: 'shorts', name: 'Shorts', description: 'Find shorts for casual and warm-weather outfits.', link: '/blog/cssbuy-shorts-2026-your-complete-guide-to-summer-and-streetwear-styles', icon: '🩳' },
+  { id: 'tracksuits', name: 'Tracksuits', description: 'Browse coordinated tracksuits and sport-inspired looks.', link: '/blog/cssbuy-tracksuit-2026-complete-collection-of-verified-tracksuits', icon: '🏃' },
+  { id: 'dresses', name: 'Dresses', description: 'Explore dress styles and clothing discovery options.', link: '/blog/cssbuy-dress-2026-complete-guide-to-womens-fashion-collection', icon: '👗' },
+  { id: 'hats', name: 'Hats & Caps', description: 'Find caps, hats and finishing pieces for your outfit.', link: '/blog/cssbuy-hats-2026-complete-guide-to-verified-headwear-collection', icon: '🧢' },
+  { id: 'bags', name: 'Bags', description: 'Browse bag guides across everyday and statement styles.', link: '/blog/cssbuy-bags-2026-complete-guide-to-backpacks-crossbody-and-more', icon: '👜' },
+  { id: 'accessories', name: 'Accessories', description: 'Explore belts, small goods and complementary details.', link: '/blog/cssbuy-accessories-2026-complete-guide-to-hats-jewelry-and-more', icon: '✨' },
+  { id: 'watches', name: 'Watches', description: 'Discover watch guides and wearable accessory options.', link: '/blog/cssbuy-watch-2026-complete-guide-to-affordable-luxury-timepieces', icon: '⌚' },
+  { id: 'sunglasses', name: 'Sunglasses', description: 'Browse eyewear and sunglasses discovery resources.', link: '/blog/cssbuy-sunglasses-2026-complete-guide-to-verified-eyewear', icon: '🕶️' }
 ])
 
 const steps = [

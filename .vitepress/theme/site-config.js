@@ -34,7 +34,7 @@ export const siteConfig = {
       name: 'CSSBuy Clothing',
       icon: '',
       description: 'Hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides with direct article paths.',
-      blogLink: '/blog/cssbuy-hoodies/',
+      blogLink: '/blog/cssbuy-hoodie-2026-verified-streetwear-and-designer-hoodie-collection/',
       landingLink: '/clothes',
     },
     {
@@ -42,7 +42,7 @@ export const siteConfig = {
       name: 'CSSBuy Shoes',
       icon: '',
       description: 'Sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots.',
-      blogLink: '/blog/cssbuy-sneakers/',
+      blogLink: '/blog/cssbuy-sneakers-2026-complete-guide-to-verified-footwear/',
       landingLink: '/shoes',
     },
     {
@@ -50,7 +50,7 @@ export const siteConfig = {
       name: 'CSSBuy Pants',
       icon: '',
       description: 'Jeans, pants, shorts, sweatpants and tracksuits with fit and fabric reading paths.',
-      blogLink: '/blog/cssbuy-pants/',
+      blogLink: '/blog/cssbuy-pants-2026-complete-guide-to-all-styles-and-brands/',
       landingLink: '/pants',
     },
     {
@@ -58,7 +58,7 @@ export const siteConfig = {
       name: 'CSSBuy Hats',
       icon: '',
       description: 'Hats, caps, beanies, bucket hats and fit guides for everyday finishing pieces.',
-      blogLink: '/blog/cssbuy-hats/',
+      blogLink: '/blog/cssbuy-hats-2026-complete-guide-to-verified-headwear-collection/',
       landingLink: '/hats',
     },
     {
@@ -66,7 +66,7 @@ export const siteConfig = {
       name: 'CSSBuy Accessories',
       icon: '',
       description: 'Bags, belts, jewelry, sunglasses, watches and wallets with direct article paths.',
-      blogLink: '/blog/cssbuy-accessories/',
+      blogLink: '/blog/cssbuy-accessories-2026-complete-guide-to-hats-jewelry-and-more/',
       landingLink: '/accessories',
     },
     {
@@ -74,7 +74,7 @@ export const siteConfig = {
       name: 'CSSBuy Electronics',
       icon: '',
       description: 'Electronics, phones, iPhone resources, AirPods and tech gadget guides.',
-      blogLink: '/blog/cssbuy-electronics/',
+      blogLink: '/blog/cssbuy-electronics-2026-complete-guide-to-verified-tech-products/',
       landingLink: '/electronics',
     },
   ],
@@ -106,7 +106,6 @@ export const siteConfig = {
     title: 'CSSBuy 2026 - CSSBuy product finds, Category Guides and Product Research',
     description: 'Explore CSSBuy 2026 through organized CSSBuy product finds, category overviews, focused guides and direct CSSBuy access.',
     keywords: ['CSSBuy 2026', 'CSSBuy', 'CSSBuy product finds', 'clothing CSSBuy', 'shoes CSSBuy', 'pants CSSBuy', 'hats CSSBuy', 'accessories CSSBuy', 'electronics CSSBuy'],
-    ga4: 'G-9WJTE8DY0P',
   },
 
   // ---- Announcement Bar ----

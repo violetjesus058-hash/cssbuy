@@ -447,7 +447,7 @@ CSSBuy discord.md
 CSSBuy docs.md
 CSSBuy download.md
 CSSBuy electronics.md
-CSSBuy excel.md
+CSSBuy product data.md
 CSSBuy fashion.md
 CSSBuy female.md
 CSSBuy findindex.md
@@ -455,8 +455,8 @@ CSSBuy for girls.md
 CSSBuy for kids.md
 CSSBuy formula.md
 CSSBuy free.md
-CSSBuy google docs.md
-CSSBuy google sheets.md
+CSSBuy product guide.md
+CSSBuy product catalog.md
 CSSBuy google.md
 CSSBuy hoodies.md
 CSSBuy hub.md

@@ -15,19 +15,19 @@ editorNotes:
 collections:
 - title: Jeans Guide
   description: Explore denim fits, weight, wash and construction cues for everyday jeans research.
-  link: /blog/cssbuy-jeans/
+  link: /blog/cssbuy-jeans-2026-complete-guide-to-denim-and-work-pants/
 - title: Pants Guide
   description: Compare trousers, cargos and everyday pants by cut, material and intended routine.
-  link: /blog/cssbuy-pants/
+  link: /blog/cssbuy-pants-2026-complete-guide-to-all-styles-and-brands/
 - title: Shorts Guide
   description: Review casual and warm-weather shorts through fabric, inseam and styling context.
-  link: /blog/cssbuy-shorts/
+  link: /blog/cssbuy-shorts-2026-your-complete-guide-to-summer-and-streetwear-styles/
 - title: Sweatpants Guide
   description: Understand fleece weight, waistband construction and relaxed-fit considerations.
-  link: /blog/cssbuy-sweatpants/
+  link: /blog/cssbuy-sweatpants-2026-complete-guide-to-verified-joggers-and-sweatpants/
 - title: Tracksuits Guide
   description: Browse coordinated tracksuits and sport-inspired layers with practical comparison notes.
-  link: /blog/cssbuy-tracksuit/
+  link: /blog/cssbuy-tracksuit-2026-complete-collection-of-verified-tracksuits/
 brands:
 - Denim and workwear
 - Everyday trousers
@@ -46,13 +46,13 @@ faq:
   answer: Fabric composition, weight, stretch and care requirements influence comfort, drape and long-term wear. These are more useful starting points than a generic quality claim.
 relatedArticles:
 - title: cssbuy Jeans Guide
-  link: /blog/cssbuy-jeans/
+  link: /blog/cssbuy-jeans-2026-complete-guide-to-denim-and-work-pants/
   desc: Denim fit, fabric weight and everyday comparison notes.
 - title: cssbuy Pants Guide
-  link: /blog/cssbuy-pants/
+  link: /blog/cssbuy-pants-2026-complete-guide-to-all-styles-and-brands/
   desc: A focused guide to trousers, cargos and practical bottoms research.
 - title: cssbuy Sizing Guide
-  link: /blog/cssbuy-sizing-guide/
+  link: /blog/cssbuy-sizing-guide-2026-complete-resource-for-fit-and-measurements/
   desc: Use measurements and fit cues before comparing options.
 category: Clothing
 tags:

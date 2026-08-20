@@ -65,12 +65,12 @@ const menuGroups = [
     label: 'Clothing',
     overviewLink: '/clothes',
     items: [
-      { label: 'Hoodies', link: '/blog/cssbuy-hoodie/' },
-      { label: 'T-Shirts', link: '/blog/cssbuy-t-shirt/' },
-      { label: 'Shirts', link: '/blog/cssbuy-shirt/' },
-      { label: 'Jackets', link: '/blog/cssbuy-jacket/' },
-      { label: 'Dresses', link: '/blog/cssbuy-dress/' },
-      { label: 'Vests', link: '/blog/cssbuy-vest/' }
+      { label: 'Hoodies', link: '/blog/cssbuy-hoodie-2026-verified-streetwear-and-designer-hoodie-collection' },
+      { label: 'T-Shirts', link: '/blog/cssbuy-t-shirt-2026-verified-streetwear-and-designer-t-shirt-collection' },
+      { label: 'Shirts', link: '/blog/cssbuy-shirt-2026-complete-guide-to-verified-shirt-collection' },
+      { label: 'Jackets', link: '/blog/cssbuy-jacket-2026-complete-guide-to-outerwear-and-layering-pieces' },
+      { label: 'Dresses', link: '/blog/cssbuy-dress-2026-complete-guide-to-womens-fashion-collection' },
+      { label: 'Vests', link: '/blog/cssbuy-vest-2026-complete-guide-to-verified-vest-collection' }
     ]
   },
   {
@@ -78,11 +78,11 @@ const menuGroups = [
     label: 'Pants',
     overviewLink: '/pants',
     items: [
-      { label: 'Jeans', link: '/blog/cssbuy-jeans/' },
-      { label: 'Pants', link: '/blog/cssbuy-pants/' },
-      { label: 'Shorts', link: '/blog/cssbuy-shorts/' },
-      { label: 'Sweatpants', link: '/blog/cssbuy-sweatpants/' },
-      { label: 'Tracksuits', link: '/blog/cssbuy-tracksuit/' }
+      { label: 'Jeans', link: '/blog/cssbuy-jeans-2026-complete-guide-to-denim-and-work-pants' },
+      { label: 'Pants', link: '/blog/cssbuy-pants-2026-complete-guide-to-all-styles-and-brands' },
+      { label: 'Shorts', link: '/blog/cssbuy-shorts-2026-your-complete-guide-to-summer-and-streetwear-styles' },
+      { label: 'Sweatpants', link: '/blog/cssbuy-sweatpants-2026-complete-guide-to-verified-joggers-and-sweatpants' },
+      { label: 'Tracksuits', link: '/blog/cssbuy-tracksuit-2026-complete-collection-of-verified-tracksuits' }
     ]
   },
   {
@@ -90,12 +90,12 @@ const menuGroups = [
     label: 'Shoes',
     overviewLink: '/shoes',
     items: [
-      { label: 'Sneakers', link: '/blog/cssbuy-sneakers/' },
-      { label: 'Basketball Shoes', link: '/blog/cssbuy-basketball-shoes/' },
-      { label: 'Running Shoes', link: '/blog/cssbuy-running-shoes/' },
-      { label: 'Football Shoes', link: '/blog/cssbuy-football-shoes/' },
-      { label: 'Hiking Shoes', link: '/blog/cssbuy-hiking-shoes/' },
-      { label: 'Boots', link: '/blog/cssbuy-football-boots/' }
+      { label: 'Sneakers', link: '/blog/cssbuy-sneakers-2026-complete-guide-to-verified-footwear' },
+      { label: 'Basketball Shoes', link: '/blog/cssbuy-basketball-shoes-2026-your-complete-guide-to-verified-kicks' },
+      { label: 'Running Shoes', link: '/blog/cssbuy-running-shoes-2026-performance-footwear-with-verified-quality' },
+      { label: 'Football Shoes', link: '/blog/cssbuy-football-shoes-2026-your-complete-guide-to-verified-pitch-performance' },
+      { label: 'Hiking Shoes', link: '/blog/cssbuy-hiking-shoes-2026-complete-guide-to-outdoor-footwear' },
+      { label: 'Boots', link: '/blog/cssbuy-football-boots-2026-complete-guide-to-verified-pitch-footwear' }
     ]
   },
   {
@@ -103,9 +103,9 @@ const menuGroups = [
     label: 'Hats',
     overviewLink: '/hats',
     items: [
-      { label: 'Hats', link: '/blog/cssbuy-hats/' },
-      { label: 'Caps', link: '/blog/cssbuy-caps/' },
-      { label: 'Hats Guide', link: '/blog/cssbuy-hats-guide/' }
+      { label: 'Hats', link: '/blog/cssbuy-hats-2026-complete-guide-to-verified-headwear-collection' },
+      { label: 'Caps', link: '/blog/cssbuy-caps-2026-complete-guide-to-verified-baseball-caps-and-headwear' },
+      { label: 'Hats Guide', link: '/blog/cssbuy-hats-2026-complete-guide-to-verified-headwear-collection' }
     ]
   },
   {
@@ -113,12 +113,12 @@ const menuGroups = [
     label: 'Accessories',
     overviewLink: '/accessories',
     items: [
-      { label: 'Bags', link: '/blog/cssbuy-bags/' },
-      { label: 'Belts', link: '/blog/cssbuy-belt/' },
-      { label: 'Jewelry', link: '/blog/cssbuy-jewelry/' },
-      { label: 'Sunglasses', link: '/blog/cssbuy-sunglasses/' },
-      { label: 'Watches', link: '/blog/cssbuy-watches/' },
-      { label: 'Wallets', link: '/blog/cssbuy-wallet/' }
+      { label: 'Bags', link: '/blog/cssbuy-bags-2026-complete-guide-to-backpacks-crossbody-and-more' },
+      { label: 'Belts', link: '/blog/cssbuy-belt-2026-complete-guide-to-affordable-style-essentials' },
+      { label: 'Jewelry', link: '/blog/cssbuy-jewelry-2026-affordable-luxury-that-delivers-quality-and-style' },
+      { label: 'Sunglasses', link: '/blog/cssbuy-sunglasses-2026-complete-guide-to-verified-eyewear' },
+      { label: 'Watches', link: '/blog/cssbuy-watch-2026-complete-guide-to-affordable-luxury-timepieces' },
+      { label: 'Wallets', link: '/blog/cssbuy-wallet-2026-complete-guide-to-verified-wallets-and-card-holders' }
     ]
   },
   {
@@ -126,11 +126,11 @@ const menuGroups = [
     label: 'Electronics',
     overviewLink: '/electronics',
     items: [
-      { label: 'Electronics', link: '/blog/cssbuy-electronics/' },
-      { label: 'Phones', link: '/blog/cssbuy-phone/' },
-      { label: 'iPhone', link: '/blog/cssbuy-iphone/' },
-      { label: 'AirPods', link: '/blog/cssbuy-airpods/' },
-      { label: 'Tech Gadgets', link: '/blog/cssbuy-tech-gadgets/' }
+      { label: 'Electronics', link: '/blog/cssbuy-electronics-2026-complete-guide-to-verified-tech-products' },
+      { label: 'Phones', link: '/blog/cssbuy-phone-2026-complete-guide-to-mobile-devices-and-accessories' },
+      { label: 'iPhone', link: '/blog/cssbuy-iphone-2026-complete-guide-to-verified-iphone-products-and-accessories' },
+      { label: 'AirPods', link: '/blog/cssbuy-airpods-2026-complete-guide-to-verified-audio-deals' },
+      { label: 'Tech Gadgets', link: '/blog/cssbuy-tech-gadgets-2026-complete-guide-to-electronics-and-smart-devices' }
     ]
   }
 ]

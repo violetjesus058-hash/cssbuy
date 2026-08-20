@@ -22,31 +22,31 @@ const productTypes = [
     icon: '',
     name: 'T-Shirts',
     desc: 'The foundation of any wardrobe. From heavyweight 220gsm cotton to lightweight jersey, fit ranges from boxy oversized to slim tailored. Key details include ribbed collars, reinforced seams, and pre-shrunk fabrics.',
-    link: '/blog/cssbuy-t-shirts/'
+    link: '/blog/cssbuy-t-shirt-2026-verified-streetwear-and-designer-t-shirt-collection'
   },
   {
     icon: '',
     name: 'Hoodies & Sweatshirts',
     desc: 'Midweight fleece (300-400gsm) provides warmth without bulk. French terry offers breathability for layering. Look for double-lined hoods, kangaroo pockets, and ribbed cuffs that maintain shape after washing.',
-    link: '/blog/cssbuy-hoodies/'
+    link: '/blog/cssbuy-hoodie-2026-verified-streetwear-and-designer-hoodie-collection'
   },
   {
     icon: '🧥',
     name: 'Jackets & Outerwear',
     desc: 'From lightweight windbreakers to insulated puffers. Key features include water-resistant coatings, sealed seams, adjustable hoods, and packable designs. Fill power (600-800) indicates down quality.',
-    link: '/blog/cssbuy-jackets/'
+    link: '/blog/cssbuy-jacket-2026-complete-guide-to-outerwear-and-layering-pieces'
   },
   {
     icon: '👖',
     name: 'Pants & Jeans',
     desc: 'Denim weight ranges from 12oz (lightweight) to 16oz (heavyweight). Stretch denim adds comfort. Cargo pants feature utility pockets. Track pants use technical fabrics for athletic performance.',
-    link: '/blog/cssbuy-pants/'
+    link: '/blog/cssbuy-pants-2026-complete-guide-to-all-styles-and-brands'
   },
   {
     icon: '🩳',
     name: 'Shorts',
     desc: 'Inseam length varies from 5" (athletic) to 11" (casual). Materials include cotton twill, nylon ripstop, and mesh-lined athletic fabrics. Elastic waistbands with drawstrings offer adjustable fit.',
-    link: '/blog/cssbuy-shorts/'
+    link: '/blog/cssbuy-shorts-2026-your-complete-guide-to-summer-and-streetwear-styles'
   },
 ]
 
@@ -303,11 +303,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these clothing-specific resources:
 
-- [cssbuy Hoodies Guide](/blog/cssbuy-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
-- [cssbuy T-Shirts Guide](/blog/cssbuy-t-shirts/) — T-shirt materials, fit options, and quality indicators
-- [cssbuy Streetwear Guide](/blog/cssbuy-streetwear/) — Streetwear brands, styling tips, and trend analysis
-- [cssbuy QC Photos](/blog/cssbuy-qc-photos/) — How to inspect clothing quality using pre-shipment photos
-- [cssbuy Sizing Guide](/blog/cssbuy-sizing-guide/) — Universal sizing guide for shoes and apparel
+- [cssbuy Hoodies Guide](/blog/cssbuy-hoodies-2026-complete-hoodie-sourcing-guide/) — Best hoodie picks, fabric weights, and style comparisons for 2026
+- [cssbuy T-Shirts Guide](/blog/cssbuy-t-shirts-2026-complete-t-shirt-sourcing-guide/) — T-shirt materials, fit options, and quality indicators
+- [cssbuy Streetwear Guide](/blog/cssbuy-streetwear-2026-ultimate-street-style-collection/) — Streetwear brands, styling tips, and trend analysis
+- [cssbuy QC Photos](/blog/cssbuy-qc-2026-quality-control-data-for-confident-international-shopping/) — How to inspect clothing quality using pre-shipment photos
+- [cssbuy Sizing Guide](/blog/cssbuy-sizing-guide-2026-complete-resource-for-fit-and-measurements/) — Universal sizing guide for shoes and apparel
 
 ## Explore More Categories
 

@@ -22,31 +22,31 @@ const productTypes = [
     icon: '🏃',
     name: 'Running Shoes',
     desc: 'Engineered for performance with responsive cushioning, breathable mesh uppers, and durable rubber outsoles. Key technologies include advanced air units, foam midsoles, and gel systems for energy return and shock absorption.',
-    link: '/blog/cssbuy-running-shoes/'
+    link: '/blog/cssbuy-running-shoes-2026-performance-footwear-with-verified-quality'
   },
   {
     icon: '🏀',
     name: 'Basketball Shoes',
     desc: 'Built for court performance with ankle support, herringbone traction patterns, and impact protection. Popular models feature responsive air units, foam midsoles, and reinforced toe boxes for durability during lateral movements.',
-    link: '/blog/cssbuy-basketball-shoes/'
+    link: '/blog/cssbuy-basketball-shoes-2026-your-complete-guide-to-verified-kicks'
   },
   {
     icon: '👟',
     name: 'Casual Sneakers',
     desc: 'Lifestyle footwear blending comfort and style. Classic silhouettes remain timeless with clean lines and versatile colorways. Modern iterations incorporate premium materials like leather, suede, and knit uppers.',
-    link: '/blog/cssbuy-sneakers/'
+    link: '/blog/cssbuy-sneakers-2026-complete-guide-to-verified-footwear'
   },
   {
     icon: '',
     name: 'Boots',
     desc: 'From rugged work boots to fashion-forward designs. Key features include Goodyear welt construction, waterproof membranes, durable rubber outsoles, and premium leather uppers for long-lasting wear.',
-    link: '/blog/cssbuy-football-boots/'
+    link: '/blog/cssbuy-football-boots-2026-complete-guide-to-verified-pitch-footwear'
   },
   {
     icon: '🩴',
     name: 'Slides & Sandals',
     desc: 'Slip-on comfort for casual wear. EVA foam construction provides lightweight cushioning. Popular models feature contoured footbeds and adjustable straps for all-day comfort.',
-    link: '/blog/cssbuy-shoes/'
+    link: '/blog/cssbuy-shoes-2026-complete-collection-of-verified-footwear'
   },
 ]
 
@@ -164,7 +164,7 @@ Shoes are designed for specific activities and styles. Choosing the right catego
 
 ## Brand Comparison: Which Brand Is Right for You?
 
-Different brands excel in different areas. Here is how the major players compare:
+Different brands product data in different areas. Here is how the major players compare:
 
 <div class="brand-table-wrapper">
 <table class="brand-table">
@@ -248,14 +248,14 @@ Proper care extends the life of your shoes significantly:
 Build on your shoe knowledge with these connected resources:
 
 **Sneaker-Specific Guides:**
-- [cssbuy Sneakers Database](/blog/cssbuy-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
-- [cssbuy Running Shoes Guide](/blog/cssbuy-running-shoes/) — Performance running shoe comparisons and technology breakdowns
-- [cssbuy Basketball Shoes Guide](/blog/cssbuy-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
+- [cssbuy Sneakers Database](/blog/cssbuy-sneakers-2026-complete-guide-to-verified-footwear/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
+- [cssbuy Running Shoes Guide](/blog/cssbuy-running-shoes-2026-performance-footwear-with-verified-quality/) — Performance running shoe comparisons and technology breakdowns
+- [cssbuy Basketball Shoes Guide](/blog/cssbuy-basketball-shoes-2026-your-complete-guide-to-verified-kicks/) — Basketball shoe batch comparisons and quality insights
 
 **Quality & Sizing Resources:**
-- [cssbuy QC Photos Tutorial](/blog/cssbuy-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
-- [cssbuy Sizing Guide](/blog/cssbuy-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
-- [cssbuy Legit Check](/blog/cssbuy-legit-check/) — Authentication markers and quality verification techniques
+- [cssbuy QC Photos Tutorial](/blog/cssbuy-qc-2026-quality-control-data-for-confident-international-shopping/) — Step-by-step guide to inspecting footwear quality before shipping
+- [cssbuy Sizing Guide](/blog/cssbuy-sizing-guide-2026-complete-resource-for-fit-and-measurements/) — Brand-specific sizing charts and measurement conversion tables
+- [cssbuy Legit Check](/blog/cssbuy-legit-2026-verifying-authenticity-and-quality-in-international-shopping/) — Authentication markers and quality verification techniques
 
 ## Explore More Categories
 

@@ -80,24 +80,24 @@
         <h2>Recommended Categories</h2>
         <div class="categories-grid">
           <a href="/clothes" class="category-card">
-            <h3>{{ frontmatter.recommendedCategories[0].title || 'Clothes' }}</h3>
-            <p>{{ frontmatter.recommendedCategories[0].description || 'Placeholder text' }}</p>
+            <h3>{{ frontmatter.recommendedCategories?.[0]?.title || 'Clothes' }}</h3>
+            <p>{{ frontmatter.recommendedCategories?.[0]?.description || 'Placeholder text' }}</p>
           </a>
           <a href="/shoes" class="category-card">
-            <h3>{{ frontmatter.recommendedCategories[1].title || 'Shoes' }}</h3>
-            <p>{{ frontmatter.recommendedCategories[1].description || 'Placeholder text' }}</p>
+            <h3>{{ frontmatter.recommendedCategories?.[1]?.title || 'Shoes' }}</h3>
+            <p>{{ frontmatter.recommendedCategories?.[1]?.description || 'Placeholder text' }}</p>
           </a>
           <a href="/watches" class="category-card">
-            <h3>{{ frontmatter.recommendedCategories[2].title || 'Watches' }}</h3>
-            <p>{{ frontmatter.recommendedCategories[2].description || 'Placeholder text' }}</p>
+            <h3>{{ frontmatter.recommendedCategories?.[2]?.title || 'Watches' }}</h3>
+            <p>{{ frontmatter.recommendedCategories?.[2]?.description || 'Placeholder text' }}</p>
           </a>
           <a href="/bags" class="category-card">
-            <h3>{{ frontmatter.recommendedCategories[3].title || 'Bags' }}</h3>
-            <p>{{ frontmatter.recommendedCategories[3].description || 'Placeholder text' }}</p>
+            <h3>{{ frontmatter.recommendedCategories?.[3]?.title || 'Bags' }}</h3>
+            <p>{{ frontmatter.recommendedCategories?.[3]?.description || 'Placeholder text' }}</p>
           </a>
           <a href="/accessories" class="category-card">
-            <h3>{{ frontmatter.recommendedCategories[4].title || 'Accessories' }}</h3>
-            <p>{{ frontmatter.recommendedCategories[4].description || 'Placeholder text' }}</p>
+            <h3>{{ frontmatter.recommendedCategories?.[4]?.title || 'Accessories' }}</h3>
+            <p>{{ frontmatter.recommendedCategories?.[4]?.description || 'Placeholder text' }}</p>
           </a>
         </div>
       </div>
@@ -109,16 +109,16 @@
         <h2>Frequently Asked Questions</h2>
         <div class="faq-grid">
           <div class="faq-item">
-            <h3>{{ frontmatter.faq[0].question || 'Question 1?' }}</h3>
-            <p>{{ frontmatter.faq[0].answer || 'Placeholder answer text' }}</p>
+            <h3>{{ frontmatter.faq?.[0]?.question || 'Question 1?' }}</h3>
+            <p>{{ frontmatter.faq?.[0]?.answer || 'Placeholder answer text' }}</p>
           </div>
           <div class="faq-item">
-            <h3>{{ frontmatter.faq[1].question || 'Question 2?' }}</h3>
-            <p>{{ frontmatter.faq[1].answer || 'Placeholder answer text' }}</p>
+            <h3>{{ frontmatter.faq?.[1]?.question || 'Question 2?' }}</h3>
+            <p>{{ frontmatter.faq?.[1]?.answer || 'Placeholder answer text' }}</p>
           </div>
           <div class="faq-item">
-            <h3>{{ frontmatter.faq[2].question || 'Question 3?' }}</h3>
-            <p>{{ frontmatter.faq[2].answer || 'Placeholder answer text' }}</p>
+            <h3>{{ frontmatter.faq?.[2]?.question || 'Question 3?' }}</h3>
+            <p>{{ frontmatter.faq?.[2]?.answer || 'Placeholder answer text' }}</p>
           </div>
         </div>
       </div>

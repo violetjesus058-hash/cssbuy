@@ -75,6 +75,16 @@ export default defineConfig({
     pageData.frontmatter.head.push(
       ['link', { rel: 'canonical', href: canonicalUrl }]
     )
+    if (pageData.frontmatter.description) {
+      pageData.frontmatter.head.push(
+        ['meta', { name: 'description', content: pageData.frontmatter.description }]
+      )
+    }
+    if (Array.isArray(pageData.frontmatter.keywords) && pageData.frontmatter.keywords.length) {
+      pageData.frontmatter.head.push(
+        ['meta', { name: 'keywords', content: pageData.frontmatter.keywords.join(', ') }]
+      )
+    }
     return pageData
   },
 

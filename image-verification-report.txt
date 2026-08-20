@@ -5781,7 +5781,7 @@ cssbuy-CSSBuy-electronics.md
       CAPTION: Latest tech accessories with express shipping for US and international orders
       SCENE:   Man at desk comparing two iPhones (15 Pro Max vs 15 Pro), spec comparison on monitor, AirPods, Apple Watch, headphones, US Express 1-2 Days and International Tracked 5-7 Days boxes
 
-cssbuy-CSSBuy-excel.md
+cssbuy-CSSBuy-product data.md
   Category: guide/general
   Images: 2
   [1] bags-daily-commute-eu-08.webp

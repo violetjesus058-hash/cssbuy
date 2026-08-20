@@ -3056,7 +3056,7 @@ ARTICLES BY CATEGORY
         CAPTION: Quality inspection and unboxing experience with international shipping options
         SCENE:   Hands unboxing Jordan 4 Fire Red from shoebox, CSSBuy printout, QC Passed 96% card, UK Express/EU Standard shipping labels, Adidas Samba box visible
 
-  cssbuy-CSSBuy-excel.md
+  cssbuy-CSSBuy-product data.md
     [1] bags-daily-commute-eu-08.webp
         ALT:     Professional woman with leather tote bag walking in European city, EU express delivery van in background
         CAPTION: Professional bags for daily commute with EU express delivery options

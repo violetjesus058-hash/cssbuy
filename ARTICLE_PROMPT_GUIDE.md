@@ -351,10 +351,10 @@ Explore the [topic] guide on CSSBuy. Discover organized [topic] references, [fea
 
 | 链接类型 | 锚文本示例 | 目标页面 |
 |---------|-----------|---------|
-| 品牌链接 | [cssbuy Nike](/blog/cssbuy-nike/) | 品牌页面 |
+| 品牌链接 | [cssbuy Nike](/blog/cssbuy-nike-2026-complete-guide-to-nike-sneakers-apparel-and-more/) | 品牌页面 |
 | 分类链接 | [shoes category](/shoes) | 分类页面 |
-| 指南链接 | [cssbuy sizing guide](/blog/cssbuy-sizing-guide/) | 功能指南 |
-| 资源链接 | [cssbuy for beginners](/blog/cssbuy-for-beginners/) | 入门指南 |
+| 指南链接 | [cssbuy sizing guide](/blog/cssbuy-sizing-guide-2026-complete-resource-for-fit-and-measurements/) | 功能指南 |
+| 资源链接 | [cssbuy for beginners](/blog/cssbuy-for-beginners-2026-step-by-step-getting-started-tutorial/) | 入门指南 |
 | 电子表格 | CSSBuy (外部链接) | 外部链接 |
 
 **内链位置：**
@@ -365,8 +365,8 @@ Explore the [topic] guide on CSSBuy. Discover organized [topic] references, [fea
 - Related Guides 部分：3-5 个相关链接
 
 **锚文本规范：**
-- ✅ "Explore the [cssbuy sneakers](/blog/cssbuy-sneakers/) collection"
-- ✅ "Refer to the [cssbuy sizing guide](/blog/cssbuy-sizing-guide/)"
+- ✅ "Explore the [cssbuy sneakers](/blog/cssbuy-sneakers-2026-complete-guide-to-verified-footwear/) collection"
+- ✅ "Refer to the [cssbuy sizing guide](/blog/cssbuy-sizing-guide-2026-complete-resource-for-fit-and-measurements/)"
 - ✅ "Browse the [shoes category](/shoes)"
 - ❌ "Click here to shop"
 - ❌ "Order now"

@@ -15,19 +15,19 @@ editorNotes:
 collections:
 - title: Electronics Guide
   description: Browse general electronics topics, device context and practical comparison starting points.
-  link: /blog/cssbuy-electronics/
+  link: /blog/cssbuy-electronics-2026-complete-guide-to-verified-tech-products/
 - title: Phones Guide
   description: Explore phone-focused articles with compatibility and daily-use comparison cues.
-  link: /blog/cssbuy-phone/
+  link: /blog/cssbuy-phone-2026-complete-guide-to-mobile-devices-and-accessories/
 - title: iPhone Guide
   description: Review iPhone-related resources, accessories and model-specific considerations.
-  link: /blog/cssbuy-iphone/
+  link: /blog/cssbuy-iphone-2026-complete-guide-to-verified-iphone-products-and-accessories/
 - title: AirPods Guide
   description: Read AirPods-focused information with fit, connectivity and use-case context.
-  link: /blog/cssbuy-airpods/
+  link: /blog/cssbuy-airpods-2026-complete-guide-to-verified-audio-deals/
 - title: Tech Gadgets Guide
   description: Discover everyday technology accessories and focused gadget comparison notes.
-  link: /blog/cssbuy-tech-gadgets/
+  link: /blog/cssbuy-tech-gadgets-2026-complete-guide-to-electronics-and-smart-devices/
 brands:
 - Phones and mobile devices
 - Audio accessories
@@ -46,13 +46,13 @@ faq:
   answer: The guide pages provide context and comparison criteria before you continue to broader CSSBuy browsing, helping you make a more deliberate shortlist.
 relatedArticles:
 - title: cssbuy Electronics Guide
-  link: /blog/cssbuy-electronics/
+  link: /blog/cssbuy-electronics-2026-complete-guide-to-verified-tech-products/
   desc: General technology discovery and comparison context.
 - title: cssbuy iPhone Guide
-  link: /blog/cssbuy-iphone/
+  link: /blog/cssbuy-iphone-2026-complete-guide-to-verified-iphone-products-and-accessories/
   desc: iPhone-related resources and compatibility-focused reading.
 - title: cssbuy AirPods Guide
-  link: /blog/cssbuy-airpods/
+  link: /blog/cssbuy-airpods-2026-complete-guide-to-verified-audio-deals/
   desc: AirPods-focused guide content and practical questions to verify.
 category: Electronics
 tags:
