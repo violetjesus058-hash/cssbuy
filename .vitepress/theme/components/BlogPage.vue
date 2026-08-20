@@ -8,6 +8,31 @@
           <p class="blog-desc">Guides, reviews, and insights to help you shop smarter on CSSBuy.</p>
         </div>
 
+        <section class="featured-section" aria-labelledby="featured-title">
+          <div class="featured-heading">
+            <div>
+              <p class="featured-kicker">Start here</p>
+              <h2 id="featured-title" class="featured-title">Recommended for Brazilian Shoppers</h2>
+              <p class="featured-desc">A practical reading path for registration, first orders, shipping, payments, quality checks, and savings.</p>
+            </div>
+          </div>
+          <div class="featured-grid">
+            <a
+              v-for="article in featuredArticles"
+              :key="article.link"
+              :href="article.link"
+              class="featured-card"
+            >
+              <span class="featured-number">{{ article.number }}</span>
+              <div>
+                <h3 class="featured-card-title">{{ article.title }}</h3>
+                <p class="featured-card-excerpt">{{ article.excerpt }}</p>
+                <span class="featured-read-more">Read guide &rarr;</span>
+              </div>
+            </a>
+          </div>
+        </section>
+
         <div
           v-for="series in articleSeries"
           :key="series.name"
@@ -84,6 +109,45 @@
 </template>
 
 <script setup>
+const featuredArticles = [
+  {
+    number: '01',
+    title: 'CSSBuy Brazil 2026: Complete Beginner Guide',
+    excerpt: 'Start with the full buying workflow, from account setup and product links to QC and shipment.',
+    link: '/blog/cssbuy-brazil-2026-complete-beginner-guide-to-buying-from-china'
+  },
+  {
+    number: '02',
+    title: 'CSSBuy Order Process in Brazil',
+    excerpt: 'Understand how a product link becomes an order, warehouse item, QC review, and parcel.',
+    link: '/blog/cssbuy-order-process-brazil-product-link-to-parcel'
+  },
+  {
+    number: '03',
+    title: 'Best CSSBuy Shipping Lines to Brazil',
+    excerpt: 'Compare the details that matter before choosing a carrier, tracking option, and insurance.',
+    link: '/blog/best-cssbuy-shipping-lines-to-brazil-how-to-compare'
+  },
+  {
+    number: '04',
+    title: 'CSSBuy Payment Methods for Brazil',
+    excerpt: 'Review payment availability, currency, fees, refunds, and what to verify at checkout.',
+    link: '/blog/cssbuy-payment-methods-brazil-guide'
+  },
+  {
+    number: '05',
+    title: 'CSSBuy QC Photos for Brazilian Shoppers',
+    excerpt: 'Learn how to inspect QC photos and make a more informed shipping decision.',
+    link: '/blog/cssbuy-qc-photos-brazil-review-before-shipping'
+  },
+  {
+    number: '06',
+    title: 'CSSBuy New User Coupons and Rewards',
+    excerpt: 'Check how to evaluate coupons, sign-up rewards, and promotions without relying on outdated offers.',
+    link: '/blog/cssbuy-new-user-coupons-sign-up-rewards-2026'
+  }
+]
+
 const articleSeries = [
   {
     "name": "Getting Started",
@@ -3219,6 +3283,92 @@ const recommendedSeries = [
   line-height: 1.6;
 }
 
+/* ---- Featured Recommendation Matrix ---- */
+.featured-section {
+  margin: 0 0 56px;
+  padding: 28px;
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #fffdf4 0%, #fff 58%, #f7f7ff 100%);
+}
+.featured-heading { margin-bottom: 22px; }
+.featured-kicker {
+  margin: 0 0 7px;
+  color: #b8960c;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.featured-title {
+  margin: 0 0 8px;
+  color: #171717;
+  font-size: 27px;
+  font-weight: 800;
+  letter-spacing: -.045em;
+  line-height: 1.15;
+}
+.featured-desc {
+  max-width: 680px;
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.featured-card {
+  display: grid;
+  grid-template-columns: 38px 1fr;
+  gap: 14px;
+  min-height: 148px;
+  padding: 18px;
+  border: 1px solid #e4e4e4;
+  border-radius: 12px;
+  background: rgba(255,255,255,.88);
+  text-decoration: none;
+  transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+}
+.featured-card:hover {
+  border-color: #d4af37;
+  box-shadow: 0 8px 22px rgba(17,17,17,.08);
+  transform: translateY(-2px);
+}
+.featured-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: #171717;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .04em;
+}
+.featured-card-title {
+  margin: 0 0 7px;
+  color: #1a1a1a;
+  font-size: 16px;
+  font-weight: 750;
+  line-height: 1.35;
+}
+.featured-card-excerpt {
+  margin: 0 0 12px;
+  color: #666;
+  font-size: 13px;
+  line-height: 1.55;
+}
+.featured-read-more {
+  color: #b8960c;
+  font-size: 13px;
+  font-weight: 700;
+}
+
 /* ---- Series Section ---- */
 .series-section {
   margin-bottom: 48px;
@@ -3364,15 +3514,22 @@ const recommendedSeries = [
   .blog-title {
     font-size: 28px;
   }
-
   .blog-container {
     padding: 0 16px;
   }
-
+  .featured-section {
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  .featured-title {
+    font-size: 24px;
+  }
+  .featured-grid {
+    grid-template-columns: 1fr;
+  }
   .article-card {
     padding: 16px;
   }
-
   .explore-grid {
     grid-template-columns: 1fr;
   }
