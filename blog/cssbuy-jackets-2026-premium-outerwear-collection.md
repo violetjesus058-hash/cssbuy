@@ -86,7 +86,7 @@ Selecting the right CSSBuy jackets involves understanding your style preferences
 
 **Step 2: Understand Your Warmth Requirements**: Different jackets cater to different temperature ranges. If you need jackets for extreme cold, look for premium down-filled options like Moncler or Canada Goose. If you're in moderate climates, The North Face or Carhartt provide adequate warmth. The CSSBuy includes community feedback on warmth levels for each model.
 
-**Step 3: Review QC Photos Carefully**: Access the [CSSBuy](https://repsootd.com/) and examine the QC photos for your chosen model. Pay attention to the material quality, insulation thickness, and overall construction. For jackets, check that the materials look premium and the construction is solid. Compare different batch versions to select the highest-quality option within your budget.
+**Step 3: Review QC Photos Carefully**: Access the [CSSBuy](https://repsootd.com/products/?q=Outerwear) and examine the QC photos for your chosen model. Pay attention to the material quality, insulation thickness, and overall construction. For jackets, check that the materials look premium and the construction is solid. Compare different batch versions to select the highest-quality option within your budget.
 
 **Step 4: Check Sizing for Proper Fit**: Proper fit is critical for jacket comfort and layering. Jackets typically need to accommodate layering underneath, so sizing up may be necessary. Moncler jackets typically run true to size. If you're between sizes, consider your layering needs and the jacket's intended fit when making your decision.
 

@@ -128,6 +128,6 @@ The adidas collection on CSSBuy offers a focused selection of two verified produ
 
 Whether you are looking for a classic tracksuit or everyday sneakers, the combination of detailed QC photos, batch comparisons, and real buyer feedback gives you the confidence to order knowing exactly what you will receive.
 
-Browse the full [CSSBuy](https://repsootd.com/) to explore all available Adidas products, compare batch versions, and find the best deals.
+Browse the full [CSSBuy](https://repsootd.com/products/?q=Shoes+%26+Sneakers) to explore all available Adidas products, compare batch versions, and find the best deals.
 
 Choosing the right Adidas becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

@@ -94,6 +94,11 @@ Official: CSSBuy references insurance and support for questions, but customs cha
 
 For Brazilian shoppers, the cssbuy total cost depends on the seller price, CSSBuy services you choose (QC, consolidation, insurance), the shipping option, and the exchange rate shown at checkout. Use QC photos and free storage time to inspect items, compare shipping lines, and contact CSSBuy support for any unclear charges. Do not assume tax or payment details — confirm all cost components at checkout and with support before paying.
 
+
+## Explore related products
+
+For readers who want to continue exploring relevant products, <a href="https://repsootd.com/products/" rel="nofollow noopener noreferrer sponsored">Browse all products on RepsOotd</a>. Product availability and search results can change, so verify the current listing before ordering.
+
 ## How this guide was prepared
 
 Official reference: [CSSBuy official website](https://www.cssbuy.com/index). Verify current service terms, prices, payment options, shipping lines, customs requirements and promotions at checkout or with CSSBuy support.

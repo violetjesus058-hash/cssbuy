@@ -78,7 +78,7 @@ Fabric technology is another important factor for gym gear. Most performance T-s
 
 ## How to Order CSSBuy Gym Gear
 
-Ordering CSSBuy gym gear follows the same streamlined process used across the entire CSSBuy platform. Start by accessing the [CSSBuy](https://repsootd.com/) to browse current availability, pricing, and batch information for all gym gear products. The CSSBuy is updated regularly and includes real-time stock status, allowing you to plan your fitness wardrobe based on what is actually available.
+Ordering CSSBuy gym gear follows the same streamlined process used across the entire CSSBuy platform. Start by accessing the [CSSBuy](https://repsootd.com/products/) to browse current availability, pricing, and batch information for all gym gear products. The CSSBuy is updated regularly and includes real-time stock status, allowing you to plan your fitness wardrobe based on what is actually available.
 
 **Step 1: Assess Your Gym Gear Needs**
 Before browsing, identify what your workout wardrobe lacks. Do you need basic T-shirts for training? Athletic shorts for mobility? A complete tracksuit for warm-ups? The CSSBuy organizes products by category, making it easy to find what you need. Consider your training style—weightlifters may prioritize durable shorts, while runners focus on lightweight, breathable fabrics.

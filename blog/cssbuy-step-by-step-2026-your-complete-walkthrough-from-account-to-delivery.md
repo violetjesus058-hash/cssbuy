@@ -114,6 +114,6 @@ Following the **CSSBuy step by step** process removes the guesswork from buying 
 
 The key advantages are transparency — you see exactly what you are getting through QC photos — and simplicity — the entire process is designed for English-speaking buyers with no prior agent experience. Whether you are buying a $12.86 pair of Nike AF1s or a $85.85 Rolex watch, the workflow remains the same.
 
-Ready to get started? Access the [CSSBuy](https://repsootd.com/) to browse the full catalog with current pricing and availability.---
+Ready to get started? Access the [CSSBuy](https://repsootd.com/products/) to browse the full catalog with current pricing and availability.---
 
 Choosing the right Step By Step becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

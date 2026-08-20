@@ -79,7 +79,7 @@ Fabric weight is another important factor for spring clothing. Most T-shirts in 
 
 ## How to Order CSSBuy Spring Clothes
 
-Ordering CSSBuy spring clothes follows the same streamlined process used across the entire CSSBuy platform. Start by accessing the [CSSBuy](https://repsootd.com/) to browse current availability, pricing, and batch information for all spring clothing products. The CSSBuy is updated regularly and includes real-time stock status, allowing you to plan your seasonal wardrobe based on what is actually available.
+Ordering CSSBuy spring clothes follows the same streamlined process used across the entire CSSBuy platform. Start by accessing the [CSSBuy](https://repsootd.com/products/) to browse current availability, pricing, and batch information for all spring clothing products. The CSSBuy is updated regularly and includes real-time stock status, allowing you to plan your seasonal wardrobe based on what is actually available.
 
 **Step 1: Identify Your Spring Wardrobe Needs**
 Assess what your wardrobe lacks before browsing. Do you need basic T-shirts for layering? A hoodie for cool mornings? A complete tracksuit for effortless styling? The CSSBuy organizes products by category, making it easy to find what you need. Consider color palettes — neutrals like black, white, grey, and navy offer maximum versatility, while seasonal colors like pastels or earth tones add visual interest.

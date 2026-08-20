@@ -75,7 +75,7 @@ Additionally, CSSBuy's shipping infrastructure supports international buyers wit
 
 ## How to Order CSSBuy LEGO Sets
 
-Ordering building toys from CSSBuy is straightforward, but a few steps can help you get the best results. Start by accessing the [CSSBuy](https://repsootd.com/), which contains the most up-to-date product listings, prices, and quality data. Use the filter function to sort by the building toy category, then narrow down by price range, piece count, or quality pass rate.
+Ordering building toys from CSSBuy is straightforward, but a few steps can help you get the best results. Start by accessing the [CSSBuy](https://repsootd.com/products/?q=Electronics), which contains the most up-to-date product listings, prices, and quality data. Use the filter function to sort by the building toy category, then narrow down by price range, piece count, or quality pass rate.
 
 Once you have identified a set you want, check the batch version listed in the CSSBuy. Newer batches typically have improved mold quality and more accurate color matching. If multiple batches are available, choose the one with the highest quality pass rate. Next, verify the piece count against the product description — reputable listings always include this information.
 

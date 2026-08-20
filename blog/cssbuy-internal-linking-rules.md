@@ -198,7 +198,7 @@ For more details on specific brands, check out our [cssbuy nike param($m); $path
 ### Conclusion Section
 - **Link count**: 0-1 link
 - **Purpose**: Optional link to CSSBuy or main guide
-- **Example**: "Browse the full [CSSBuy](https://repsootd.com/) to discover..."
+- **Example**: "Browse the full [CSSBuy](https://repsootd.com/products/) to discover..."
 
 ### Related Guides Section
 - **Link count**: Exactly 3 links

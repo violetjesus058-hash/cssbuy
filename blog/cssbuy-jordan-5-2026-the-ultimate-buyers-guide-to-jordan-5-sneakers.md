@@ -176,6 +176,6 @@ CSSBuy jordan 5 products offer one of the most distinctive and historically sign
 
 The key to a successful Jordan 5 purchase is thorough QC photo review using the model-specific checklist in this guide. Pay close attention to the reflective tongue quality, shark-tooth midsole paint accuracy, sole bonding, and outsole clarity. Follow the sizing recommendation of sticking with your regular Nike size. And use the CSSBuy to compare batch options and community quality ratings before committing.
 
-Browse the full [CSSBuy](https://repsootd.com/) to explore current Jordan 5 listings, compare colorways and batch options, and find the pair that matches your style and budget.
+Browse the full [CSSBuy](https://repsootd.com/products/?q=Shoes+%26+Sneakers) to explore current Jordan 5 listings, compare colorways and batch options, and find the pair that matches your style and budget.
 
 Choosing the right Jordan 5 becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

@@ -165,7 +165,7 @@ Nike products on CSSBuy continue to be among the most popular items on the platf
 
 The key to a successful purchase is using the tools available: review QC photos carefully, understand batch version differences, follow sizing guidelines, and check product details before committing. The CSSBuy consolidates all of this information in one place, making it easier than ever to make informed decisions.
 
-Browse the full [CSSBuy](https://repsootd.com/) to explore current Nike listings, compare batch options, and find the products that match your style and budget. Whether you are a first-time buyer or a repeat customer, the data-driven approach CSSBuy offers ensures you get what you pay for ?every time.
+Browse the full [CSSBuy](https://repsootd.com/products/?q=Nike) to explore current Nike listings, compare batch options, and find the products that match your style and budget. Whether you are a first-time buyer or a repeat customer, the data-driven approach CSSBuy offers ensures you get what you pay for ?every time.
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 

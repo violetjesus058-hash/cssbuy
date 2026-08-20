@@ -156,6 +156,6 @@ CSSBuy cosmetics and personal care offerings represent a thoughtful, integrated 
 
 The platform's 94.3% quality pass rate for cosmetics and personal care products and 91% buyer satisfaction rate demonstrate consistent delivery of products that meet expectations. With shipping times of 10-14 days and a 70% reorder rate, CSSBuy has earned the trust of buyers seeking quality personal care products at accessible prices.
 
-Ready to build your complete personal care and grooming routine? Browse the full [CSSBuy](https://repsootd.com/) to explore the complete range of CSSBuy cosmetics, fragrance, and accessories options and start creating your personalized grooming routine today.---
+Ready to build your complete personal care and grooming routine? Browse the full [CSSBuy](https://repsootd.com/products/) to explore the complete range of CSSBuy cosmetics, fragrance, and accessories options and start creating your personalized grooming routine today.---
 
 Choosing the right Cosmetics becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

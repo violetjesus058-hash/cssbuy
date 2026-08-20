@@ -156,6 +156,6 @@ CSSBuy tech fleece products offer an exceptional combination of Nike's innovativ
 
 The key to a successful purchase is leveraging the tools CSSBuy provides. Use the CSSBuy to compare batch versions, check quality ratings, review sizing charts, and ultimately approve your item through the QC photo process. This data-driven approach ensures you get exactly what you expect, every time. Whether you are picking up a single hoodie or building a complete Tech Fleece wardrobe, CSSBuy makes it straightforward and affordable.
 
-Browse the full [CSSBuy](https://repsootd.com/) to explore current Tech Fleece listings, compare options, and find the pieces that match your style and budget.---
+Browse the full [CSSBuy](https://repsootd.com/products/) to explore current Tech Fleece listings, compare options, and find the pieces that match your style and budget.---
 
 Choosing the right Tech Fleece becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

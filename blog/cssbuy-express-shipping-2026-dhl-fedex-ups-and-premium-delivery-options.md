@@ -137,6 +137,6 @@ CSSBuy express shipping through DHL, FedEx, and UPS provides the fastest, most s
 
 The platform's 93% buyer satisfaction rate and 72% repurchase rate reflect the quality of the entire shipping experience, with express shipping playing a key role in maintaining buyer confidence. Whether you choose DHL for speed, FedEx for North American reliability, or UPS for European value, you're getting a premium delivery experience backed by established global carriers.
 
-To plan your next express order, access the [CSSBuy](https://repsootd.com/) for detailed product information, current pricing, and quality ratings. This resource helps you identify the best items for your needs and calculate whether express shipping is the right investment for your order.---
+To plan your next express order, access the [CSSBuy](https://repsootd.com/products/) for detailed product information, current pricing, and quality ratings. This resource helps you identify the best items for your needs and calculate whether express shipping is the right investment for your order.---
 
 Choosing the right Express Shipping becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

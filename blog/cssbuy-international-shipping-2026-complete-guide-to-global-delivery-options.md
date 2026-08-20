@@ -142,6 +142,6 @@ CSSBuy international shipping offers flexible options for buyers worldwide, from
 
 Customs and import duties vary significantly by country, but most CSSBuy orders fall below major de minimis thresholds, particularly in the US where the $800 threshold covers most purchases. Being informed about your country's specific regulations ensures smooth delivery without surprises.
 
-To explore the full product catalog and plan your next international order, access the [CSSBuy](https://repsootd.com/) for detailed pricing, quality ratings, and order data. This resource helps you make informed decisions about what to order and which shipping method makes the most sense for your purchase.---
+To explore the full product catalog and plan your next international order, access the [CSSBuy](https://repsootd.com/products/) for detailed pricing, quality ratings, and order data. This resource helps you make informed decisions about what to order and which shipping method makes the most sense for your purchase.---
 
 Choosing the right International Shipping becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

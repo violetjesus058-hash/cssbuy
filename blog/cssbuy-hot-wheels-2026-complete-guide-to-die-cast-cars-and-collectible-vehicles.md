@@ -75,7 +75,7 @@ For buyers who want to go beyond individual models, also offers on CSSBuy themed
 
 ## How to Order and Display Your Collection
 
-Ordering die-cast cars from CSSBuy follows the same streamlined process as other categories. Begin by accessing the [CSSBuy](https://repsootd.com/) and filtering by the die-cast vehicle category. Sort by quality pass rate to see the highest-rated models first, or sort by price to find budget-friendly options. Pay attention to the batch version listed for each model — newer batches generally have improved paint and detailing.
+Ordering die-cast cars from CSSBuy follows the same streamlined process as other categories. Begin by accessing the [CSSBuy](https://repsootd.com/products/?q=Electronics) and filtering by the die-cast vehicle category. Sort by quality pass rate to see the highest-rated models first, or sort by price to find budget-friendly options. Pay attention to the batch version listed for each model — newer batches generally have improved paint and detailing.
 
 When placing your order, consider bundling multiple models to take advantage of combined shipping rates. Most die-cast cars weigh under 100 grams each, so you can fit 10–15 models in a single standard parcel without exceeding weight limits. Processing time is typically 2–4 business days, and delivery to the US or EU takes 10–14 days with full tracking.
 

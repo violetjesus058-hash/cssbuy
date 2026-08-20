@@ -251,7 +251,7 @@ Key success factors include selecting appropriate shipping methods for your time
 
 
 
-Customs navigation remains the most complex variable, with accurate documentation and legal duty optimization strategies preventing most delays and unexpected costs. For those ready to explore current inventory and plan orders, the [CSSBuy](https://repsootd.com/) provides comprehensive product listings with detailed specifications, pricing, and availability. This resource helps buyers compare options, calculate total landed costs including shipping and duties, and make informed decisions based on their specific needs and destination requirements.
+Customs navigation remains the most complex variable, with accurate documentation and legal duty optimization strategies preventing most delays and unexpected costs. For those ready to explore current inventory and plan orders, the [CSSBuy](https://repsootd.com/products/) provides comprehensive product listings with detailed specifications, pricing, and availability. This resource helps buyers compare options, calculate total landed costs including shipping and duties, and make informed decisions based on their specific needs and destination requirements.
 
 
 

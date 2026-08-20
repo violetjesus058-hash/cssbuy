@@ -93,6 +93,11 @@ Customs duties, VAT and any Brazil-specific import charges are handled by Brazil
 
 Estimating cssbuy shipping cost for Brazil involves getting your items into CSSBuy’s system, checking parcel weight/dimensions, comparing shipping lines, and including optional services. Use CSSBuy’s tools as a starting point, but always confirm final charges and available shipping lines at checkout or with CSSBuy support. That is the only way to lock in the exact cssbuy frete calculator outcome for your shipment.
 
+
+## Explore related products
+
+For readers who want to continue exploring relevant products, <a href="https://repsootd.com/products/" rel="nofollow noopener noreferrer sponsored">Browse all products on RepsOotd</a>. Product availability and search results can change, so verify the current listing before ordering.
+
 ## How this guide was prepared
 
 Official reference: [CSSBuy official website](https://www.cssbuy.com/index). Verify current service terms, prices, payment options, shipping lines, customs requirements and promotions at checkout or with CSSBuy support.

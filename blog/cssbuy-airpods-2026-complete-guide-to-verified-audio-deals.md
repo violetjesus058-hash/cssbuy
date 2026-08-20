@@ -77,7 +77,7 @@ For resellers, the economics are compelling. Buying Air Pods Pro at $2.51 and se
 
 Ordering AirPods on CSSBuy is straightforward once you understand the workflow. Here is a step-by-step guide to help you navigate the process smoothly.
 
-**Step 1: Access the CSSBuy.** Start by opening the [CSSBuy](https://repsootd.com/) and navigating to the Electronics section. Look for the AirPods listings — you will see product names, approximate prices, and current stock levels.
+**Step 1: Access the CSSBuy.** Start by opening the [CSSBuy](https://repsootd.com/products/) and navigating to the Electronics section. Look for the AirPods listings — you will see product names, approximate prices, and current stock levels.
 
 **Step 2: Check Batch Information.** Each listing includes batch details that tell you which factory version is currently available. Pay attention to the batch number and any notes about quality variations. If you are unsure, ask in the Telegram group on CSSBuy for the latest buyer feedback on the current batch.
 

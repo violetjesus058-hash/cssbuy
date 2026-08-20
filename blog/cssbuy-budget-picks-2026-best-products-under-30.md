@@ -53,7 +53,7 @@ This guide breaks down the best budget-friendly products currently available on 
 
 
 
-For a complete overview of all available products and current pricing, check out the [CSSBuy](https://repsootd.com/) which is updated regularly with the latest inventory.
+For a complete overview of all available products and current pricing, check out the [CSSBuy](https://repsootd.com/products/) which is updated regularly with the latest inventory.
 
 <figure class="article-image">
   <img src="/images/clothing-streetwear-outfit-us-03.webp"
@@ -213,7 +213,7 @@ From the $12.86 Nike AF1 Low that gives you an iconic sneaker look for pocket ch
 
 
 
-The key to making the most of **CSSBuy budget picks** is staying informed and acting quickly. Inventory moves fast at these price points, and popular sizes don't stick around long. Use the [CSSBuy](https://repsootd.com/) as your go-to resource for current pricing and availability, and don't be afraid to grab multiple items when you find something you like.
+The key to making the most of **CSSBuy budget picks** is staying informed and acting quickly. Inventory moves fast at these price points, and popular sizes don't stick around long. Use the [CSSBuy](https://repsootd.com/products/) as your go-to resource for current pricing and availability, and don't be afraid to grab multiple items when you find something you like.
 
 
 

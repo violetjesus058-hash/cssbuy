@@ -131,6 +131,6 @@ This **complete guide on CSSBuy** has covered every essential aspect of the dire
 
 CSSBuy's strength lies in its structured approach to fashion discovery. The organized categories, comprehensive product information, and helpful guides provide the tools and information needed to make informed decisions. Whether you are researching your first item or exploring specific brands, the directory offers the resources you need.
 
-For those ready to explore the full directory, the [CSSBuy](https://repsootd.com/) offers comprehensive product listings with current pricing references and specifications. Start with the category that interests you most, or browse the brand-specific guides for detailed information.---
+For those ready to explore the full directory, the [CSSBuy](https://repsootd.com/products/) offers comprehensive product listings with current pricing references and specifications. Start with the category that interests you most, or browse the brand-specific guides for detailed information.---
 
 Choosing the right Complete Guide becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

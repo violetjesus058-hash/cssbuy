@@ -140,6 +140,6 @@ CSSBuy room decor represents a smart, creative approach to interior styling in 2
 
 With over 276+ verified products, a 94.2% quality pass rate, and shipping times of 10-14 days, CSSBuy provides a reliable platform for building a curated home decor collection. The data speaks for itself: 72% of buyers reorder within three months, and average order values of $18.50 make it possible to experiment with different styles without breaking the bank.
 
-Ready to transform your space? Browse the full [CSSBuy](https://repsootd.com/) to discover the complete range of CSSBuy room decor options and start building your personalized interior today.---
+Ready to transform your space? Browse the full [CSSBuy](https://repsootd.com/products/) to discover the complete range of CSSBuy room decor options and start building your personalized interior today.---
 
 Choosing the right Room Decor becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

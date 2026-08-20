@@ -74,7 +74,7 @@ Community feedback plays a vital role in maintaining these standards. The CSSBuy
 
 ## How to Order Labubu Figures on CSSBuy
 
-Ordering Labubu figures from CSSBuy is a simple process, but a few strategies can help you get the best results. Start by accessing the [CSSBuy](https://repsootd.com/) and navigating to the designer toy section. Filter by Labubu to see all available figures, then sort by quality pass rate or price to find options that match your preferences.
+Ordering Labubu figures from CSSBuy is a simple process, but a few strategies can help you get the best results. Start by accessing the [CSSBuy](https://repsootd.com/products/) and navigating to the designer toy section. Filter by Labubu to see all available figures, then sort by quality pass rate or price to find options that match your preferences.
 
 For blind box purchases, check whether the listing specifies "sealed" or "opened/confirmed." Sealed blind boxes maintain the surprise element, while confirmed boxes guarantee a specific figure from the series — typically at a slightly higher price. If you are hunting for a secret chase variant, confirmed boxes are the safer choice, though they cost more.
 

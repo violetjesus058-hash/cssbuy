@@ -170,6 +170,6 @@ CSSBuy jordan 4 products represent the premium end of the Jordan collection on C
 
 The key to a successful Jordan 4 purchase is thorough QC photo review using the model-specific checklist in this guide. Pay close attention to the mesh panel texturing, sole bonding, wing eyelet finishing, and heel tab embroidery. Follow the sizing recommendation of going up half a size from your regular Nike size. And use the CSSBuy to compare batch options and community quality ratings before committing.
 
-Browse the full [CSSBuy](https://repsootd.com/) to explore current Jordan 4 listings, compare colorways and batch options, and find the pair that matches your style and budget.
+Browse the full [CSSBuy](https://repsootd.com/products/?q=Shoes+%26+Sneakers) to explore current Jordan 4 listings, compare colorways and batch options, and find the pair that matches your style and budget.
 
 Choosing the right Jordan 4 becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

@@ -138,6 +138,6 @@ fragrance offers on CSSBuy a compelling combination of variety, quality, and aff
 
 Whether you're drawn to the fresh versatility of Perfume Variant 2, the sophisticated depth of Perfume Variant 3, or the balanced everyday appeal of the base Perfume, CSSBuy fragrance provides accessible entry into the world of quality scents. With shipping times of 10-14 days and a 68% reorder rate, the platform has earned the trust of a growing community of fragrance enthusiasts.
 
-Ready to find your signature scent? Browse the full [CSSBuy](https://repsootd.com/) to explore the complete fragrance collection on CSSBuy and start building your personal scent wardrobe today.---
+Ready to find your signature scent? Browse the full [CSSBuy](https://repsootd.com/products/?q=Fragrances) to explore the complete fragrance collection on CSSBuy and start building your personal scent wardrobe today.---
 
 Choosing the right Fragrance becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

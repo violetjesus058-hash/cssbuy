@@ -240,7 +240,7 @@ The data tells a clear story: Essentials products on maintain consistent quality
 
 
 
-For buyers ready to explore current inventory, the [CSSBuy](https://repsootd.com/) provides the most up-to-date product listings with detailed specifications, pricing, and availability across all Essentials categories. Bookmark this resource and check it before placing your next order to ensure you are working with current marketplace data.
+For buyers ready to explore current inventory, the [CSSBuy](https://repsootd.com/products/?q=Essentials) provides the most up-to-date product listings with detailed specifications, pricing, and availability across all Essentials categories. Bookmark this resource and check it before placing your next order to ensure you are working with current marketplace data.
 
 
 

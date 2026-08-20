@@ -88,7 +88,7 @@ The CSSBuy template is designed to work seamlessly with the main product databas
 
 To get started, access both the main database and the template. Identify products in the main database that match your initial criteria, then import them into your template for detailed analysis. Use the template's comparison tools, price tracking, and custom fields to evaluate your options and make informed decisions.
 
-For help discovering products to add to your template, the [CSSBuy finder](https://repsootd.com/) tool can surface trending products and hidden gems that match your preferences and can be imported into your personalized research system.
+For help discovering products to add to your template, the [CSSBuy finder](https://repsootd.com/products/) tool can surface trending products and hidden gems that match your preferences and can be imported into your personalized research system.
 
 ## Template Use Cases and Examples
 
@@ -142,6 +142,6 @@ The CSSBuy template provides a powerful, customizable framework for personalized
 
 To get started, access the template and the main database using the links above. Identify products in the main catalog that match your criteria, then import them into your template for detailed analysis. Use the comparison tools, price tracking, and custom fields to evaluate your options and make informed decisions. With the right approach, you can use the template to streamline your product research, save time, and maximize your satisfaction with every purchase.
 
-For more resources, check out our guides on the [CSSBuy best](/blog/cssbuy-best-2026-top-rated-products-and-premium-seller-rankings/), the [CSSBuy with qc](/blog/cssbuy-with-qc-2026-why-quality-control-matters-for-every-order/), and the [CSSBuy finder](https://repsootd.com/) to enhance your shopping strategy and maximize your success with the CSSBuy template.
+For more resources, check out our guides on the [CSSBuy best](/blog/cssbuy-best-2026-top-rated-products-and-premium-seller-rankings/), the [CSSBuy with qc](/blog/cssbuy-with-qc-2026-why-quality-control-matters-for-every-order/), and the [CSSBuy finder](https://repsootd.com/products/) to enhance your shopping strategy and maximize your success with the CSSBuy template.
 
-Choosing the right CSSBuy Template becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the [CSSBuy](https://repsootd.com/) homepage for additional shopping resources and regularly updated product guides.
+Choosing the right CSSBuy Template becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the [CSSBuy](https://repsootd.com/products/) homepage for additional shopping resources and regularly updated product guides.

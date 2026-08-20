@@ -128,6 +128,6 @@ CSSBuy provides category guides, brand-specific guides, a [sizing guide](/blog/c
 
 This Romania guide on CSSBuy provides Romanian users with a comprehensive overview of available resources for fashion discovery in 2026. The CSSBuy offers organized product categories, detailed pricing references, and helpful shopping guides to support informed decisions.
 
-Explore the [CSSBuy](https://repsootd.com/) to discover organized product listings, or browse category guides for [shoes](/shoes), [clothes](/clothes), and [accessories](/accessories) to get started.
+Explore the [CSSBuy](https://repsootd.com/products/) to discover organized product listings, or browse category guides for [shoes](/shoes), [clothes](/clothes), and [accessories](/accessories) to get started.
 
 Choosing the right Romania Guide becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

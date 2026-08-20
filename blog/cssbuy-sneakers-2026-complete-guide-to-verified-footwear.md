@@ -276,6 +276,6 @@ The key to a successful purchase is using the tools available: review QC photos 
 
 
 
-Browse the full [CSSBuy](https://repsootd.com/) to explore current listings, compare batch options, and find the sneakers that match your style and budget. Whether you are a first-time buyer or a repeat customer, the data-driven approach CSSBuy offers ensures you get what you pay for —every time.
+Browse the full [CSSBuy](https://repsootd.com/products/?q=Shoes+%26+Sneakers) to explore current listings, compare batch options, and find the sneakers that match your style and budget. Whether you are a first-time buyer or a repeat customer, the data-driven approach CSSBuy offers ensures you get what you pay for —every time.
 
 Choosing the right Sneakers becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the CSSBuy homepage for additional shopping resources and regularly updated product guides.

@@ -86,7 +86,7 @@ Selecting the right CSSBuy heels involves understanding your style preferences, 
 
 **Step 2: Understand Your Comfort Requirements**: Different heels cater to different comfort levels. If you need heels for extended wear, look for models with cushioned insoles and stable heel designs like Dior B22. If you're attending a short event, you can prioritize styling over comfort with Balenciaga designs. The CSSBuy includes community feedback on comfort levels for each model.
 
-**Step 3: Review QC Photos Carefully**: Access the [CSSBuy](https://repsootd.com/) and examine the QC photos for your chosen model. Pay attention to the material quality, design details, and overall construction. For heels, check that the materials look premium and the construction is solid. Compare different batch versions to select the highest-quality option within your budget.
+**Step 3: Review QC Photos Carefully**: Access the [CSSBuy](https://repsootd.com/products/?q=Shoes+%26+Sneakers) and examine the QC photos for your chosen model. Pay attention to the material quality, design details, and overall construction. For heels, check that the materials look premium and the construction is solid. Compare different batch versions to select the highest-quality option within your budget.
 
 **Step 4: Check Sizing for Proper Fit**: Proper fit is critical for heel comfort and wearability. Designer heels typically run true to size, but some models may run slightly small or large. Dior models typically run true to size. If you're between sizes, consider your foot width and the shoe's design when making your decision. Consult the platform's measurement charts and community sizing feedback before finalizing your order.
 

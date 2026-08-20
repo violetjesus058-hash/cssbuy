@@ -79,7 +79,7 @@ Community feedback reinforces these quality metrics. With over 50,000 active mem
 
 ## How to Build Your Collectible Collection
 
-Building a collectible collection on CSSBuy starts with a clear strategy. Begin by accessing the [CSSBuy](https://repsootd.com/) and exploring the collectible categories. Use filters to sort by subcategory, price range, quality pass rate, or order volume. This data-driven approach helps you identify high-quality items that match your interests and budget.
+Building a collectible collection on CSSBuy starts with a clear strategy. Begin by accessing the [CSSBuy](https://repsootd.com/products/) and exploring the collectible categories. Use filters to sort by subcategory, price range, quality pass rate, or order volume. This data-driven approach helps you identify high-quality items that match your interests and budget.
 
 For new collectors, we recommend starting with one subcategory to build focus. If you are drawn to art toys, begin with a few [cssbuy labubu](/blog/cssbuy-labubu-2026-complete-guide-to-collectible-designer-figures/) blind boxes to experience the quality before investing in larger sets. If vehicles interest you, start with 3–5 [cssbuy hot wheels](/blog/cssbuy-hot-wheels-2026-complete-guide-to-die-cast-cars-and-collectible-vehicles/) models in different themes to see which styles resonate most.
 
