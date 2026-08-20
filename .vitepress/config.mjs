@@ -5,6 +5,9 @@ const { seo, brand } = siteConfig
 
 export default defineConfig({
   vite: {
+    server: {
+      allowedHosts: true,
+    },
     ssr: {
       noExternal: [],
     },
@@ -20,6 +23,13 @@ export default defineConfig({
   lang: 'en-US',
 
   head: [
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-97MYY8GF2T' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-97MYY8GF2T');
+    `],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: seo.title }],
     ['meta', { property: 'og:description', content: seo.description }],
