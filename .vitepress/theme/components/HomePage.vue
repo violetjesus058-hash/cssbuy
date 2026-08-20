@@ -2,11 +2,11 @@
   <main class="modern-home">
     <section class="hero-section">
       <div class="page-container hero-content">
-        <p class="eyebrow">Curated fashion discovery · Updated regularly</p>
-        <h1>CSSBuy Brasil <span>2026 — Moda, Ofertas e Produtos Verificados</span></h1>
+        <p class="eyebrow">China shopping agent · Taobao, 1688, Tmall & more</p>
+        <h1>Shop from China’s Biggest Marketplaces <span>with Confidence.</span></h1>
         <p class="hero-copy">
-          Discover curated CSSBuy fashion finds for shoppers in Brazil, with practical category guides,
-          verified product research, sizing tips and a direct path to the latest collections.
+          Buy from Taobao, 1688, Tmall and other Chinese marketplaces with practical guidance for product checks,
+          warehouse storage and international shipping to Brazil and worldwide.
         </p>
         <div class="hero-actions">
           <a :href="shoppingUrl" target="_blank" rel="nofollow sponsored noopener noreferrer" class="button button-secondary cta-shopping">
@@ -15,16 +15,16 @@
         </div>
         <dl class="hero-stats" aria-label="Catalog highlights">
           <div>
-            <dt>Curated</dt>
-            <dd>fashion discovery</dd>
+            <dt>Search</dt>
+            <dd>URL, keyword or photo</dd>
           </div>
           <div>
-            <dt>Guided</dt>
-            <dd>category paths</dd>
+            <dt>Check</dt>
+            <dd>QC and warehouse guidance</dd>
           </div>
           <div>
-            <dt>Direct</dt>
-            <dd>catalog access</dd>
+            <dt>Ship</dt>
+            <dd>Brazil and worldwide</dd>
           </div>
         </dl>
       </div>
@@ -33,11 +33,11 @@
     <section class="intro-section">
       <div class="page-container intro-grid">
         <div class="intro-content">
-          <p class="section-kicker">A better way to browse</p>
-          <h2>Everything you need to explore, organized in one place.</h2>
+          <p class="section-kicker">A clearer route to China shopping</p>
+          <h2>Search, buy, check and ship with better context.</h2>
           <p>
-            Instead of working through unstructured listings, use clear category pages and focused guides to
-            compare styles, review details and find the next item for your wardrobe.
+            Use focused guides to understand how Chinese marketplace shopping works, what to review before ordering,
+            how warehouse checks fit into the process and what to confirm before international delivery.
           </p>
         </div>
       </div>
@@ -46,9 +46,9 @@
     <section id="categories" class="section section-light">
       <div class="page-container">
         <div class="section-heading">
-          <p class="section-kicker">Browse by type</p>
-          <h2>Explore every clothing type in one place.</h2>
-          <p>These 15 unique types are drawn from the existing article library. Each card links to one representative guide.</p>
+          <p class="section-kicker">Popular categories</p>
+          <h2>Explore products people buy from China.</h2>
+          <p>Start with a product category, then use the related guides to compare materials, sizing, quality checks and buying considerations.</p>
         </div>
         <div class="category-grid">
           <a v-for="cat in categoryCards" :key="cat.id" :href="cat.link" class="category-card">
@@ -64,8 +64,8 @@
     <section class="section section-muted">
       <div class="page-container">
         <div class="section-heading">
-          <p class="section-kicker">Simple by design</p>
-          <h2>From discovery to decision in four steps.</h2>
+          <p class="section-kicker">How CSSBuy shopping works</p>
+          <h2>From product search to international delivery.</h2>
         </div>
         <ol class="steps-grid">
           <li v-for="(step, index) in steps" :key="step.title" class="step-card">
@@ -80,11 +80,11 @@
     <section id="features" class="section section-light">
       <div class="page-container feature-layout">
         <div class="feature-intro">
-          <p class="section-kicker">Built for useful discovery</p>
-          <h2>Less browsing. Better context.</h2>
+          <p class="section-kicker">Built for confident decisions</p>
+          <h2>Know what happens after you find a product.</h2>
           <p>
-            The site is designed around practical navigation, clear detail pages and a catalog that is easy to
-            return to whenever you need it.
+            The guides explain the practical steps between a marketplace listing and a delivered parcel, while keeping
+            product, seller, stock, customs and shipping claims appropriately cautious.
           </p>
           <a :href="links.shopping" target="_blank" rel="nofollow sponsored noopener noreferrer" class="text-link cta-CSSBuy">
             Open the full catalog <span aria-hidden="true">→</span>
@@ -104,8 +104,8 @@
       <div class="page-container final-cta">
         <div>
           <p class="section-kicker">Ready when you are</p>
-          <h2>Explore the full fashion catalog.</h2>
-          <p>Access the CSSBuy directly, then come back to the guides whenever you need more context.</p>
+          <h2>Start shopping from China with a clearer plan.</h2>
+          <p>Open the product catalog, then return to CSSBuy guides whenever you need more context on quality checks, storage or shipping to Brazil.</p>
         </div>
       </div>
     </section>
@@ -153,31 +153,31 @@ const categoryCards = computed(() => [
 ])
 
 const steps = [
-  { title: 'Choose a category', description: 'Start with the product type or style you want to explore.' },
-  { title: 'Review the guides', description: 'Use structured pages to understand details, sizing and context.' },
-  { title: 'Open the catalog', description: 'Browse the CSSBuy for a broader selection of fashion finds.' },
-  { title: 'Make your shortlist', description: 'Compare options and return to the resources whenever you need them.' }
+  { title: 'Search a marketplace', description: 'Start with a product URL, keyword or image from Taobao, 1688, Tmall or another Chinese marketplace.' },
+  { title: 'Buy through the agent', description: 'Review product information, price, seller details and applicable service costs before confirming.' },
+  { title: 'Check and store', description: 'Use warehouse QC information and storage guidance before deciding what to keep or consolidate.' },
+  { title: 'Ship internationally', description: 'Compare shipping methods, destination rules and estimated costs before sending a parcel to Brazil.' }
 ]
 
 const features = [
-  { mark: '01', title: 'Clear structure', description: 'Focused categories make it faster to reach the content that matters.' },
-  { mark: '02', title: 'Useful context', description: 'Guides provide practical background before you move to the catalog.' },
-  { mark: '03', title: 'Easy access', description: 'Open the full CSSBuy from any key point on the homepage.' },
-  { mark: '04', title: 'Always current', description: 'A simple system for returning to collections and new discovery paths.' }
+  { mark: '01', title: 'Marketplace access', description: 'Learn how URL, keyword and image-based product discovery fits into a China shopping workflow.' },
+  { mark: '02', title: 'Quality checks', description: 'Understand QC photos and inspection limits without treating them as an authenticity guarantee.' },
+  { mark: '03', title: 'Warehouse storage', description: 'Review storage, consolidation and parcel preparation before international shipping.' },
+  { mark: '04', title: 'Shipping guidance', description: 'Compare destination, route, customs and delivery considerations before you order.' }
 ]
 
 const faqs = [
   {
-    question: 'What is the fashion CSSBuy?',
-    answer: 'It is a curated directory for browsing fashion items through organized categories and direct product resources.'
+    question: 'What is CSSBuy?',
+    answer: 'CSSBuy is a shopping-agent and buying-guide resource that helps users understand how to source products from Chinese marketplaces and plan the steps from discovery to international delivery.'
   },
   {
-    question: 'How should I start exploring?',
-    answer: 'Choose a category on this page, read the related guide, then use the CSSBuy to browse a wider selection.'
+    question: 'Can I buy from Taobao, 1688 and Tmall?',
+    answer: 'The CSSBuy guides explain how these marketplace links fit into a China shopping-agent workflow. Product availability, seller details, service costs and shipping eligibility should be confirmed on the live platform page before ordering.'
   },
   {
-    question: 'Can I access the catalog on mobile?',
-    answer: 'Yes. The site and its external catalog links are designed to work across desktop and mobile browsers.'
+    question: 'Does CSSBuy provide quality checks and shipping guidance?',
+    answer: 'The resource covers QC photos, warehouse storage, parcel consolidation and international shipping considerations. QC is an inspection aid, not a guarantee of authenticity, condition or future availability.'
   }
 ]
 </script>

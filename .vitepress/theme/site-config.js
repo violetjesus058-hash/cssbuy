@@ -8,8 +8,8 @@ export const siteConfig = {
   // ---- Brand ----
   brand: {
     name: 'CSSBuy',
-    tagline: 'Brazilian Fashion Finds, Verified Products & Smart Shopping Guides',
-    description: 'A practical CSSBuy resource for shoppers in Brazil, featuring fashion finds, verified product research, sizing guidance and smart shopping tips.',
+    tagline: 'China Shopping Agent Guides for Taobao, 1688, Tmall & More',
+    description: 'A practical CSSBuy resource for shoppers in Brazil and worldwide, covering Chinese marketplaces, quality checks, warehouse processes, international shipping and buying guides.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
     logoText: 'CSSBuy',
@@ -103,11 +103,11 @@ export const siteConfig = {
   // ---- SEO Defaults ----
   seo: {
     hostname: 'https://repsootd.com',
-    title: 'CSSBuy Brasil 2026 — Guia Completo de Moda, Ofertas e Produtos Verificados',
-    description: 'Descubra as melhores descobertas de moda, ofertas e produtos verificados da CSSBuy para compradores no Brasil, com guias práticos e pesquisa de qualidade.',
-    keywords: ['CSSBuy Brasil 2026', 'CSSBuy Brasil', 'CSSBuy moda', 'CSSBuy ofertas', 'CSSBuy produtos verificados', 'compras internacionais Brasil', 'moda streetwear Brasil', 'guias de moda CSSBuy', 'CSSBuy roupas e tênis'],
+    title: 'CSSBuy: China Shopping Agent for Taobao, 1688 & More',
+    description: 'Shop from Taobao, 1688, Tmall and other Chinese marketplaces with CSSBuy. Get quality checks, warehouse guidance and international shipping support to Brazil and worldwide.',
+    keywords: ['CSSBuy China shopping agent', 'CSSBuy Taobao agent', 'CSSBuy 1688 agent', 'CSSBuy Tmall agent', 'buy from China to Brazil', 'CSSBuy quality check', 'CSSBuy warehouse storage', 'CSSBuy international shipping', 'CSSBuy reviews'],
   },
 
   // ---- Announcement Bar ----
-  announcement: 'Product guides and CSSBuy updated regularly. Browse by category below.',
+  announcement: 'Buy from Chinese marketplaces with clearer guides for quality checks, storage and international shipping.',
 }
