@@ -6,17 +6,6 @@
         <h1>{{ frontmatter.title || 'Article Title' }}</h1>
         <div class="article-actions" role="group" aria-label="Article actions">
           <component
-            :is="CSSBuyLinked ? 'a' : 'span'"
-            :href="CSSBuyLinked ? CSSBuyUrl : undefined"
-            :target="CSSBuyLinked ? '_blank' : undefined"
-            :rel="CSSBuyLinked ? 'nofollow noopener noreferrer' : undefined"
-            :aria-disabled="CSSBuyLinked ? undefined : 'true'"
-            class="article-action article-action-primary"
-            :class="{ 'is-unlinked': !CSSBuyLinked }"
-          >
-            Access CSSBuy
-          </component>
-          <component
             :is="shoppingLinked ? 'a' : 'span'"
             :href="shoppingLinked ? shoppingUrl : undefined"
             :target="shoppingLinked ? '_blank' : undefined"
@@ -101,11 +90,9 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
-const CSSBuyUrl = 'https://repsootd.com/'
 const shoppingUrl = 'https://repsootd.com/'
 
 /* Set either field to false in an article's frontmatter to render that control without a link. */
-const CSSBuyLinked = computed(() => frontmatter.value.CSSBuyLink !== false)
 const shoppingLinked = computed(() => frontmatter.value.shoppingLink !== false)
 </script>
 

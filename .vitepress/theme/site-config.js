@@ -8,8 +8,8 @@ export const siteConfig = {
   // ---- Brand ----
   brand: {
     name: 'CSSBuy',
-    tagline: 'Fashion Finds Resource & Buying Guide',
-    description: 'Independent resource for CSSBuy shoppers. Product guides, category breakdowns, sizing tips, and CSSBuy access — organized in one place.',
+    tagline: 'Brazilian Fashion Finds, Verified Products & Smart Shopping Guides',
+    description: 'A practical CSSBuy resource for shoppers in Brazil, featuring fashion finds, verified product research, sizing guidance and smart shopping tips.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
     logoText: 'CSSBuy',
@@ -103,9 +103,9 @@ export const siteConfig = {
   // ---- SEO Defaults ----
   seo: {
     hostname: 'https://repsootd.com',
-    title: 'CSSBuy 2026 - CSSBuy product finds, Category Guides and Product Research',
-    description: 'Explore CSSBuy 2026 through organized CSSBuy product finds, category overviews, focused guides and direct CSSBuy access.',
-    keywords: ['CSSBuy 2026', 'CSSBuy', 'CSSBuy product finds', 'clothing CSSBuy', 'shoes CSSBuy', 'pants CSSBuy', 'hats CSSBuy', 'accessories CSSBuy', 'electronics CSSBuy'],
+    title: 'CSSBuy Brasil 2026 — Guia Completo de Moda, Ofertas e Produtos Verificados',
+    description: 'Descubra as melhores descobertas de moda, ofertas e produtos verificados da CSSBuy para compradores no Brasil, com guias práticos e pesquisa de qualidade.',
+    keywords: ['CSSBuy Brasil 2026', 'CSSBuy Brasil', 'CSSBuy moda', 'CSSBuy ofertas', 'CSSBuy produtos verificados', 'compras internacionais Brasil', 'moda streetwear Brasil', 'guias de moda CSSBuy', 'CSSBuy roupas e tênis'],
   },
 
   // ---- Announcement Bar ----

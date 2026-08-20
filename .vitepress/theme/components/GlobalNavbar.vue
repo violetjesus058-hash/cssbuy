@@ -43,7 +43,6 @@
         <a href="/blog/" class="nav-item" :class="{ active: isActive('/blog') }" @click="closeMenus">Guides</a>
       </nav>
 
-      <a :href="links.shopping" target="_blank" rel="nofollow" class="nav-cta">Access CSSBuy <span aria-hidden="true">↗</span></a>
     </div>
   </header>
 </template>

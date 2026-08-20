@@ -3,16 +3,12 @@
     <section class="hero-section">
       <div class="page-container hero-content">
         <p class="eyebrow">Curated fashion discovery · Updated regularly</p>
-        <h1>CSSBuy <span>2026</span></h1>
+        <h1>CSSBuy Brasil <span>2026 — Moda, Ofertas e Produtos Verificados</span></h1>
         <p class="hero-copy">
-          Discover organized CSSBuy product finds across clothing, shoes, pants, hats, accessories and electronics,
-          with category overviews, focused guides and direct access to the full CSSBuy.
+          Discover curated CSSBuy fashion finds for shoppers in Brazil, with practical category guides,
+          verified product research, sizing tips and a direct path to the latest collections.
         </p>
         <div class="hero-actions">
-          <a :href="links.shopping" target="_blank" rel="nofollow" class="button button-primary cta-CSSBuy">
-            Explore the CSSBuy
-            <span aria-hidden="true">↗</span>
-          </a>
           <a :href="shoppingUrl" target="_blank" rel="nofollow" class="button button-secondary cta-shopping">
             Start shopping
           </a>
@@ -111,9 +107,6 @@
           <h2>Explore the full fashion catalog.</h2>
           <p>Access the CSSBuy directly, then come back to the guides whenever you need more context.</p>
         </div>
-        <a :href="links.shopping" target="_blank" rel="nofollow" class="button button-light cta-CSSBuy">
-          Access CSSBuy <span aria-hidden="true">↗</span>
-        </a>
       </div>
     </section>
 
@@ -204,15 +197,15 @@ const faqs = [
 .hero-section { padding: 88px 0 72px; border-bottom: 1px solid var(--line); }
 .hero-content { text-align: center; max-width: 900px; }
 .eyebrow, .section-kicker { margin: 0 0 18px; color: var(--accent); font-size: 12px; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; }
-.hero-content h1 { max-width: none; margin: 0 auto; color: var(--ink); font-size: clamp(44px, 5.4vw, 76px); font-weight: 800; letter-spacing: -.067em; line-height: .98; white-space: nowrap; }
+.hero-content h1 { max-width: 1120px; margin: 0 auto; color: var(--ink); font-size: clamp(40px, 5.1vw, 72px); font-weight: 800; letter-spacing: -.067em; line-height: 1.02; }
 .hero-content h1 span { color: var(--accent); }
 .hero-copy { max-width: 630px; margin: 28px auto 34px; color: var(--muted-ink); font-size: 19px; line-height: 1.7; }
 .hero-actions { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
-.button { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 52px; padding: 0 23px; border: 1px solid transparent; border-radius: 8px; font-size: 15px; font-weight: 700; text-decoration: none; transition: transform .2s ease, box-shadow .2s ease, background .2s ease; }
+.button { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 62px; padding: 0 34px; border: 1px solid transparent; border-radius: 10px; font-size: 16px; font-weight: 750; text-decoration: none; transition: transform .2s ease, box-shadow .2s ease, background .2s ease; }
 .button:hover { transform: translateY(-2px); }
 .button-primary { background: var(--ink); color: #fff; box-shadow: 0 10px 22px rgba(0,0,0,.12); }
 .button-primary:hover { background: var(--accent); box-shadow: 0 12px 26px rgba(91,92,226,.22); }
-.button-secondary { border-color: var(--line); background: #fff; color: var(--ink); }
+.button-secondary { min-width: 230px; border-color: var(--line); background: #fff; color: var(--ink); box-shadow: 0 8px 20px rgba(0,0,0,.06); }
 .button-secondary:hover { border-color: #c8c8c8; background: var(--surface); }
 .hero-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; max-width: 680px; margin: 56px auto 0; padding-top: 25px; border-top: 1px solid var(--line); }
 .hero-stats div { text-align: center; }
