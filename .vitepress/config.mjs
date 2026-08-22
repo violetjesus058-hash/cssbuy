@@ -30,6 +30,8 @@ export default defineConfig({
       gtag('js', new Date());
       gtag('config', 'G-97MYY8GF2T');
     `],
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: seo.title }],
     ['meta', { property: 'og:description', content: seo.description }],
